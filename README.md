@@ -13,6 +13,7 @@ El módulo profesional se centra en poner las bases de la programación orientad
 
 * [Hoja de control de asistencia](https://drive.google.com/open?id=1aXzEQ7fkdCSSEOiP2W2GFWTGqHiAGVzKt5bL-hj5XXI)
 
-### Control de actividades
+### Actividades
 
 * [Hoja de control de actividades](https://drive.google.com/open?id=1jFbR2l4ZehXFtvJEhce4akKwAt7gZjiMLhu-nRZga9A)
+* ¿Necesitas ayuda en clase? [Apúntate para ser atendido](https://docs.google.com/a/iessanandres.com/forms/d/1nYtDnSN8kW8iAauDYCYdmwi1ifxKd4A41xWdloL1brc/viewform)
