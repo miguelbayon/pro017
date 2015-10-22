@@ -16,4 +16,5 @@ El módulo profesional se centra en poner las bases de la programación orientad
 ### Actividades
 
 * [¿Necesitas resolver dudas o presentar o entregar actividades?](https://docs.google.com/a/iessanandres.com/forms/d/1nYtDnSN8kW8iAauDYCYdmwi1ifxKd4A41xWdloL1brc/viewform)
+* [ver fujo de entregas](https://docs.google.com/spreadsheets/d/1yenRjZ942BY4Y8BFmBlO99kUGDQ_hhtqxLkTUGFAt1g/edit?usp=sharing)
 * [Hoja de control de actividades](https://drive.google.com/open?id=1jFbR2l4ZehXFtvJEhce4akKwAt7gZjiMLhu-nRZga9A)
