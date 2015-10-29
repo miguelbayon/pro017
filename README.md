@@ -1,5 +1,5 @@
 # Módulo "Programación"
-## 1º Curso CFGS Desarrollo de Aplicaciones Multiplataforma (DAM1)
+## 1º Curso CFGS Desarrollo de Aplicaciones Multiplataforma
 
 * __Profesor__: Miguel Bayón Alonso (miguel.bayon@iesssanandres.com)
 * __Curso__: 2015-2016
