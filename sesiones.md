@@ -4,6 +4,7 @@
 
 
 ### 9 nov
+* Corrección en clase de [020454](actividades/020454.md)
 * [029898](actividades/029898.md): modificaciones en `better-ticket-machine`
 * [209078](actividades/209078.md): reloj digital
 * [Abstracción y modularización](http://youtu.be/Xml9__jfC98)
