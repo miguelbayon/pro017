@@ -10,7 +10,9 @@
 
 El módulo profesional se centra en poner las bases de la programación orientada a objetos, desde los elementos del lenguaje, conceptos y filosofía de la POO, tipos avanzados de datos, flujos de datos, desarrollo de programas/aplicaciones y documentación de las mismas.
 
-### Control de asistencia
+### Asistencia
+
+Para que el alumno pueda acogerse a la evaluación continua es necesario que las faltas de asistencia (independientemente de si son  justificadas o no justificadas) sean inferiores al 15% del horario lectivo del módulo. Por lo tanto, un alumno que tenga 39 o más faltas de asistencia perdería su derecho a evaluación continua.
 
 * [Hoja de control de asistencia](https://drive.google.com/open?id=1aXzEQ7fkdCSSEOiP2W2GFWTGqHiAGVzKt5bL-hj5XXI)
 
