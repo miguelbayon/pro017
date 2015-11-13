@@ -22,4 +22,4 @@
 * [0001](actividades/0001.md): diagramas de clases y objetos en proyecto `house`
 * [0002](actividades/0002.md): preguntas varias sobre tipos de datos
 * Corrección de [0002](actividades/0002.md)
-* [Tipos de datos referenciados]()
+* [Tipos de datos referenciados](documentacion/tiposDeDatosPrimitivos.md)
