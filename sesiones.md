@@ -28,3 +28,7 @@
 * [Revisión de la clase NumberDisplay (II)](http://youtu.be/67Bq7dhgdFI): concatenación de cadenas
 * [Revisión de la clase NumberDisplay (III)](http://youtu.be/STqnDJgP4bI): operador módulo
 
+
+### 16 nov
+* 
+
