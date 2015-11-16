@@ -25,10 +25,11 @@
 * [0002](actividades/0002.md): preguntas varias sobre tipos de datos
 * Corrección de [0001](actividades/0001.md)
 * Corrección de [0002](actividades/0002.md)
-* [Tipos de datos referenciados](documentacion/tiposDeDatosPrimitivos.md)
-* Solución para `NumberDisplay`: https://gist.github.com/miguelbayon/78bba85edb6dbb89fb59
+
 
 #### Para casa
+* [Tipos de datos referenciados](documentacion/tiposDeDatosPrimitivos.md)
+* Solución para `NumberDisplay`: https://gist.github.com/miguelbayon/78bba85edb6dbb89fb59
 * [Revisión de la clase NumberDisplay (I)](http://youtu.be/9BcK7nrjYMA): operadores lógicos
 * [Revisión de la clase NumberDisplay (II)](http://youtu.be/67Bq7dhgdFI): concatenación de cadenas
 * [Revisión de la clase NumberDisplay (III)](http://youtu.be/STqnDJgP4bI): operador módulo
