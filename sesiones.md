@@ -8,6 +8,8 @@
 * Corrección en clase de [020454](actividades/020454.md)
 * [029898](actividades/029898.md): modificaciones en `better-ticket-machine`
 * [209078](actividades/209078.md): reloj digital inicial
+
+#### Para casa
 * [Abstracción y modularización](http://youtu.be/Xml9__jfC98)
 * [Diagrama de objetos VS diagrama de clases](http://youtu.be/C6FM6SeBLXY)
 * [Tipos de datos primitivos VS tipos de datos referenciados](http://youtu.be/ukNV9hwJNhY)
@@ -21,10 +23,12 @@
 * [0000](actividades/0000.md): implementación de la clase `NumberDisplay`
 * [0001](actividades/0001.md): diagramas de clases y objetos en proyecto `house`
 * [0002](actividades/0002.md): preguntas varias sobre tipos de datos
-* Corrección de [0001](actividades/0001.md)* 
+* Corrección de [0001](actividades/0001.md)
 * Corrección de [0002](actividades/0002.md)
 * [Tipos de datos referenciados](documentacion/tiposDeDatosPrimitivos.md)
 * Solución para `NumberDisplay`: https://gist.github.com/miguelbayon/78bba85edb6dbb89fb59
+
+#### Para casa
 * [Revisión de la clase NumberDisplay (I)](http://youtu.be/9BcK7nrjYMA): operadores lógicos
 * [Revisión de la clase NumberDisplay (II)](http://youtu.be/67Bq7dhgdFI): concatenación de cadenas
 * [Revisión de la clase NumberDisplay (III)](http://youtu.be/STqnDJgP4bI): operador módulo
