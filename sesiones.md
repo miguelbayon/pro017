@@ -23,8 +23,8 @@
 * [0000](actividades/0000.md): implementación de la clase `NumberDisplay`
 * [0001](actividades/0001.md): diagramas de clases y objetos en proyecto `house`
 * [0002](actividades/0002.md): preguntas varias sobre tipos de datos
-* Corrección de [0001](actividades/0001.md)
-* Corrección de [0002](actividades/0002.md)
+* Corrección de [0001](actividades/0001.md) (diagramas de clases y objetos en proyecto `house`)
+* Corrección de [0002](actividades/0002.md) (preguntas varias sobre tipos de datos)
 
 
 #### Para casa
@@ -36,5 +36,17 @@
 
 
 ### 16 nov
-* 
+* [0018](actividades/0018.md): implementación de la clase `ClockDisplay`
+* [0020](actividades/0020.md): preguntas sobre `ClockDisplay`
+* [0021](actividades/0021.md): interacción en CodePad con `NumberDisplay`
+* Corrección de [0018](actividades/0018.md) (implementación de la clase `ClockDisplay`)
+* Corrección de [0020](actividades/0020.md): (preguntas sobre `ClockDisplay`)
+
+### 19 nov
+* [0021](actividades/0021.md) (interacción en CodePad con `NumberDisplay`)
+
+
+
+
+
 
