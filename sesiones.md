@@ -39,13 +39,18 @@
 * [0018](actividades/0018.md): implementación de la clase `ClockDisplay`
 * [0020](actividades/0020.md): preguntas sobre `ClockDisplay`
 * [0021](actividades/0021.md): interacción en CodePad con `NumberDisplay`
-* Corrección de [0018](actividades/0018.md) (implementación de la clase `ClockDisplay`)
-* Corrección de [0020](actividades/0020.md): (preguntas sobre `ClockDisplay`)
+* Corrección de [0018](actividades/0018.md) ([implementación]((https://gist.github.com/miguelbayon/34352ec03b7c4ec17a56) de la clase `ClockDisplay`) 
+* Corrección de [0020](actividades/0020.md) (preguntas sobre `ClockDisplay`)
 
 ### 19 nov
-* [0021](actividades/0021.md) (interacción en CodePad con `NumberDisplay`)
+* Corrección de [0021](actividades/0021.md) (interacción en CodePad con `NumberDisplay`)
+* [0026](actividades/0026.md) reloj de 12 horas
+* [0027](actividades/0027.md) reloj de 12/24 horas elegible
 
 
+### 20 nov
+* Corrección de [0026](actividades/0026.md) (reloj de 12 horas)
+* Corrección de [0027](actividades/0026.md) (reloj de 12/24 horas elegible)
 
 
 
