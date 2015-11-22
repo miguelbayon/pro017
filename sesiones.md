@@ -67,7 +67,11 @@
 * Corrección de [0022](https://github.com/miguelbayon/pro015/blob/master/actividades/0022.md) (pregunta sobre constructores)
 * Corrección de [0023](https://github.com/miguelbayon/pro015/blob/master/actividades/0023.md) (preguntas sobre constructores)
 * Corrección de [0025](https://github.com/miguelbayon/pro015/blob/master/actividades/0025.md) (uso del CodePad)
-* 
+* [0029](https://github.com/miguelbayon/pro015/blob/master/actividades/0029.md): interaccion con el sistema de email hecho
+* [0030](https://github.com/miguelbayon/pro015/blob/master/actividades/0030.md): impleentación de `MailItem` y `MailClient`
+
+
+### 26 nov, jueves
 
 
 
