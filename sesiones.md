@@ -1,9 +1,9 @@
-### 6 nov
+### 6 nov, viernes
 * [Unidad 2. Parte 3](https://docs.google.com/presentation/d/1mEKb91_joya0wWqZQ9DkMJH_eSo5aHf2VHSifykKowU/edit?usp=sharing)
 * [020454](actividades/020454.md): modificaciones en `better-ticket-machine`
 
 
-### 9 nov
+### 9 nov, lunes
 * Instalación de [Gobby](https://gobby.github.io/).
 * Corrección en clase de [020454](actividades/020454.md)
 * [029898](actividades/029898.md): modificaciones en `better-ticket-machine`
@@ -15,11 +15,11 @@
 * [Tipos de datos primitivos VS tipos de datos referenciados](http://youtu.be/ukNV9hwJNhY)
 
 
-### 12 nov
+### 12 nov, jueves
 * Corrección de [209078](actividades/209078.md) (reloj digital inicial)
 
 
-### 13 nov
+### 13 nov, viernes
 * [0000](actividades/0000.md): implementación de la clase `NumberDisplay`
 * [0001](actividades/0001.md): diagramas de clases y objetos en proyecto `house`
 * [0002](actividades/0002.md): preguntas varias sobre tipos de datos
@@ -35,22 +35,29 @@
 * [Revisión de la clase NumberDisplay (III)](http://youtu.be/STqnDJgP4bI): operador módulo
 
 
-### 16 nov
+### 16 nov, lunes
 * [0018](actividades/0018.md): implementación de la clase `ClockDisplay`
 * [0020](actividades/0020.md): preguntas sobre `ClockDisplay`
 * [0021](actividades/0021.md): interacción en CodePad con `NumberDisplay`
 * Corrección de [0018](actividades/0018.md) ([implementación]((https://gist.github.com/miguelbayon/34352ec03b7c4ec17a56) de la clase `ClockDisplay`) 
 * Corrección de [0020](actividades/0020.md) (preguntas sobre `ClockDisplay`)
 
-### 19 nov
+### 19 nov, jueves
 * Corrección de [0021](actividades/0021.md) (interacción en CodePad con `NumberDisplay`)
 * [0026](actividades/0026.md) reloj de 12 horas
 * [0027](actividades/0027.md) reloj de 12/24 horas elegible
 
 
-### 20 nov
+### 20 nov, viernes
 * Corrección de [0026](actividades/0026.md) (reloj de 12 horas)
 * Corrección de [0027](actividades/0026.md) (reloj de 12/24 horas elegible)
+* [0028](https://github.com/miguelbayon/pro015/blob/master/actividades/0028.md): reloj con fecha
+* [0022](https://github.com/miguelbayon/pro015/blob/master/actividades/0022.md): pregunta sobre constructores
+* [0023](https://github.com/miguelbayon/pro015/blob/master/actividades/0023.md): preguntas sobre constructores
+* [0025](https://github.com/miguelbayon/pro015/blob/master/actividades/0025.md): uso del CodePad
+
+
+### 23 nov, lunes
 
 
 
