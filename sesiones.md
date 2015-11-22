@@ -56,8 +56,18 @@
 * [0023](https://github.com/miguelbayon/pro015/blob/master/actividades/0023.md): preguntas sobre constructores
 * [0025](https://github.com/miguelbayon/pro015/blob/master/actividades/0025.md): uso del CodePad
 
+#### Para casa
+* Solución alternativa a la clase `ClockDisplay` vista en clase: [https://gist.github.com/miguelbayon/be00a3d99d0a66392575](https://gist.github.com/miguelbayon/be00a3d99d0a66392575)
+* [Revisión de la clase ClockDisplay](http://youtu.be/9xnWk7KdWEQ): hilo de ejecución de un programa, objetos  creando otros objetos en sus metodos, invocaciones internas y externas, sobrecarga de constructores y métodos e interface de una clase
+* [Escenario simplificado del sistema de correo electrónico](http://youtu.be/2TZxZqEQnTc)
+* [Clases necesarias para la simulacion del email](http://youtu.be/Yq1AXheoDwQ)
 
 ### 23 nov, lunes
+* Corrección de [0028](https://github.com/miguelbayon/pro015/blob/master/actividades/0028.md) (reloj con fecha)
+* Corrección de [0022](https://github.com/miguelbayon/pro015/blob/master/actividades/0022.md) (pregunta sobre constructores)
+* Corrección de [0023](https://github.com/miguelbayon/pro015/blob/master/actividades/0023.md) (preguntas sobre constructores)
+* Corrección de [0025](https://github.com/miguelbayon/pro015/blob/master/actividades/0025.md) (uso del CodePad)
+* 
 
 
 
