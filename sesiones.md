@@ -81,4 +81,23 @@
 * [Revisión de la solución de 0029](http://youtu.be/U3mMTjcbojA)
 
 
+### 27 nov, viernes
+* [0170](https://github.com/miguelbayon/pro015/blob/master/actividades/0170.md): número de emails, getNextMailItemAndSendAutomaticRespond y visualizar ultimo email.
+* Correción de [0031](https://github.com/miguelbayon/pro015/blob/master/actividades/0031.md) (uso the this y asunto en el email)
+
+
+### 30 nov, lunes
+* Corrección de [0170](https://github.com/miguelbayon/pro015/blob/master/actividades/0170.md) (número de emails, getNextMailItemAndSendAutomaticRespond y visualizar ultimo email)
+* [0150](https://github.com/miguelbayon/pro015/blob/master/actividades/0050.md)
+* [0034](https://github.com/miguelbayon/pro015/blob/master/actividades/0034.md)
+* [0009](https://github.com/miguelbayon/pro015/blob/master/actividades/0009.md)
+* [0011](https://github.com/miguelbayon/pro015/blob/master/actividades/0011.md)
+* [0013](https://github.com/miguelbayon/pro015/blob/master/actividades/0013.md)
+
+#### Para casa
+* [Palabra reservada this](http://youtu.be/JkR4IXaSCc8)
+* [El depurador o debugger](http://youtu.be/Qg9uFcoaV4I)
+* [Función "Step into" del debugger](http://youtu.be/tjvz2UxBJzk)
+
+
 
