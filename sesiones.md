@@ -88,7 +88,7 @@
 
 ### 30 nov, lunes
 * Corrección de [0170](https://github.com/miguelbayon/pro015/blob/master/actividades/0170.md) (número de emails, `getNextMailItemAndSendAutomaticRespond` y visualizar ultimo email)
-* [0150](https://github.com/miguelbayon/pro015/blob/master/actividades/0050.md)
+* Introducción al uso de clases `Test`.
 * [0034](https://github.com/miguelbayon/pro015/blob/master/actividades/0034.md)
 * [0009](https://github.com/miguelbayon/pro015/blob/master/actividades/0009.md)
 * [0011](https://github.com/miguelbayon/pro015/blob/master/actividades/0011.md)
