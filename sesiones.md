@@ -87,7 +87,7 @@
 
 
 ### 30 nov, lunes
-* Corrección de [0170](https://github.com/miguelbayon/pro015/blob/master/actividades/0170.md) (número de emails, getNextMailItemAndSendAutomaticRespond y visualizar ultimo email)
+* Corrección de [0170](https://github.com/miguelbayon/pro015/blob/master/actividades/0170.md) (número de emails, `getNextMailItemAndSendAutomaticRespond` y visualizar ultimo email)
 * [0150](https://github.com/miguelbayon/pro015/blob/master/actividades/0050.md)
 * [0034](https://github.com/miguelbayon/pro015/blob/master/actividades/0034.md)
 * [0009](https://github.com/miguelbayon/pro015/blob/master/actividades/0009.md)
