@@ -99,5 +99,11 @@
 * [El depurador o debugger](http://youtu.be/Qg9uFcoaV4I)
 * [Función "Step into" del debugger](http://youtu.be/tjvz2UxBJzk)
 
+### 3 dic, jueves
+* [0172](https://github.com/miguelbayon/pro015/blob/master/actividades/0172.md) Bebedor
 
+
+### 4 dic, viernes
+* Corrección de [0172](https://github.com/miguelbayon/pro015/blob/master/actividades/0172.md) (Bebedor)
+* [0173](https://github.com/miguelbayon/pro015/blob/master/actividades/0173.md) Nueva funcionalidad en bebedor
 
