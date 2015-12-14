@@ -123,3 +123,7 @@
 ### 14 dic, lunes
 * Corrección de  [0150](https://github.com/miguelbayon/pro015/blob/master/actividades/0150.md) (spam, estadísticas y errores en sistema de email)
 
+#### Para casa
+* [Introducción a la librería de clases estándar de Java](http://youtu.be/qP7MW41TQKo)
+* [Concepto abstractod de "colección](http://youtu.be/E9S90yHBlwA)
+* [Introducción a un programa organizador de archivos mp3)](http://youtu.be/DAGgBZArISM)
