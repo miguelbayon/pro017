@@ -107,3 +107,19 @@
 * Corrección de [0172](https://github.com/miguelbayon/pro015/blob/master/actividades/0172.md) (Bebedor)
 * [0173](https://github.com/miguelbayon/pro015/blob/master/actividades/0173.md) Nueva funcionalidad en bebedor
 
+
+### 7 dic, lunes
+* [0173](https://github.com/miguelbayon/pro015/blob/master/actividades/0173.md) Nueva funcionalidad en bebedor
+
+
+### 10 dic, jueves
+* Comprobación en clase de la [0173](https://github.com/miguelbayon/pro015/blob/master/actividades/0173.md) (nueva funcionalidad en bebedor)
+
+
+### 11 dic, viernes
+* [0150](https://github.com/miguelbayon/pro015/blob/master/actividades/0150.md) Spam, estadísticas y errores en sistema de email
+
+
+### 14 dic, lunes
+* Corrección de  [0150](https://github.com/miguelbayon/pro015/blob/master/actividades/0150.md) (spam, estadísticas y errores en sistema de email)
+
