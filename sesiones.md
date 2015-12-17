@@ -127,3 +127,17 @@
 * [Introducción a la librería de clases estándar de Java](http://youtu.be/qP7MW41TQKo)
 * [Concepto abstractod de "colección](http://youtu.be/E9S90yHBlwA)
 * [Introducción a un programa organizador de archivos mp3)](http://youtu.be/DAGgBZArISM)
+
+
+### 17 dic, jueves
+* Corrección de  [0150](https://github.com/miguelbayon/pro015/blob/master/actividades/0150.md) (spam, estadísticas y errores en sistema de email)
+* [0032](https://github.com/miguelbayon/pro015/blob/master/actividades/0032.md): usando el debugger
+* [0035](https://github.com/miguelbayon/pro015/blob/master/actividades/0035.md): empezando con music-organizer
+
+#### Para casa
+* [Solución de 0035](http://youtu.be/u35hIfRjeUw)
+* Revisar la clase `MusicOrganizer` e intentar entender qué hace cada línea del ćodigo.
+* [Revisión de la clase MusicOrganizer](http://youtu.be/-hU1_4LO7Xo)
+
+
+### 18 dic, viernes
