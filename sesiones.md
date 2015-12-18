@@ -132,12 +132,17 @@
 ### 17 dic, jueves
 * Corrección de  [0150](https://github.com/miguelbayon/pro015/blob/master/actividades/0150.md) (spam, estadísticas y errores en sistema de email)
 * [0032](https://github.com/miguelbayon/pro015/blob/master/actividades/0032.md): usando el debugger
-* [0035](https://github.com/miguelbayon/pro015/blob/master/actividades/0035.md): empezando con music-organizer
-
-#### Para casa
-* [Solución de 0035](http://youtu.be/u35hIfRjeUw)
-* Revisar la clase `MusicOrganizer` e intentar entender qué hace cada línea del ćodigo.
-* [Revisión de la clase MusicOrganizer](http://youtu.be/-hU1_4LO7Xo)
 
 
 ### 18 dic, viernes
+* [0035](https://github.com/miguelbayon/pro015/blob/master/actividades/0035.md): empezando con music-organizer
+* Revisar la clase `MusicOrganizer` e intentar entender qué hace cada línea del ćodigo.
+* [0036](https://github.com/miguelbayon/pro015/blob/master/actividades/0036.md): empezando con music-organizer
+* [0037](https://github.com/miguelbayon/pro015/blob/master/actividades/0037.md): empezando con music-organizer
+* [0038](https://github.com/miguelbayon/pro015/blob/master/actividades/0038.md): empezando con music-organizer
+
+
+#### Para casa
+* [Solución de 0035](http://youtu.be/u35hIfRjeUw)
+* [Revisión de la clase MusicOrganizer](http://youtu.be/-hU1_4LO7Xo)
+* A partir de ahora es necesario traer auriculares a clase para poder hacer las actividades.
