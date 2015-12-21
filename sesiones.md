@@ -151,4 +151,8 @@
 
 ### 21 dic, lunes
 * Corrección de [0039](https://github.com/miguelbayon/pro015/blob/master/actividades/0039.md) (check y valid index, listFile y removeFile en music-organizer-1)
+* [0040](https://github.com/miguelbayon/pro015/blob/master/actividades/0040.md): music-organizer-2
+* [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
+
+
 
