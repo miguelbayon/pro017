@@ -137,12 +137,18 @@
 ### 18 dic, viernes
 * [0035](https://github.com/miguelbayon/pro015/blob/master/actividades/0035.md): empezando con music-organizer
 * Revisar la clase `MusicOrganizer` e intentar entender qué hace cada línea del ćodigo.
-* [0036](https://github.com/miguelbayon/pro015/blob/master/actividades/0036.md): empezando con music-organizer
-* [0037](https://github.com/miguelbayon/pro015/blob/master/actividades/0037.md): empezando con music-organizer
-* [0038](https://github.com/miguelbayon/pro015/blob/master/actividades/0038.md): empezando con music-organizer
+* [0036](https://github.com/miguelbayon/pro015/blob/master/actividades/0036.md): cuestiones sobre ArrayLists
+* [0037](https://github.com/miguelbayon/pro015/blob/master/actividades/0037.md): cuestiones sobre ArrayLists
+* [0038](https://github.com/miguelbayon/pro015/blob/master/actividades/0038.md): cuestiones sobre ArrayLists
 
 
 #### Para casa
 * [Solución de 0035](http://youtu.be/u35hIfRjeUw)
 * [Revisión de la clase MusicOrganizer](http://youtu.be/-hU1_4LO7Xo)
 * A partir de ahora es necesario traer auriculares a clase para poder hacer las actividades.
+* [0039](https://github.com/miguelbayon/pro015/blob/master/actividades/0039.md): check y valid index, listFile y removeFile en music-organizer-1
+
+
+### 21 dic, lunes
+* Corrección de [0039](https://github.com/miguelbayon/pro015/blob/master/actividades/0039.md) (check y valid index, listFile y removeFile en music-organizer-1)
+
