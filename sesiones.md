@@ -151,8 +151,16 @@
 
 ### 21 dic, lunes
 * Corrección de [0039](https://github.com/miguelbayon/pro015/blob/master/actividades/0039.md) (check y valid index, listFile y removeFile en music-organizer-1)
+* [0289](https://github.com/miguelbayon/pro015/blob/master/actividades/0289.md): alimentos
+
+
+### 8 ene, viernes
+* Corrección de [0289](https://github.com/miguelbayon/pro015/blob/master/actividades/0289.md) (alimentos)
 * [0040](https://github.com/miguelbayon/pro015/blob/master/actividades/0040.md): music-organizer-2
 * [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
 
 
+#### Para casa
+* [Revisión del proyecto `music-organizer-2`:](http://youtu.be/2f5VJzHCa2s)
+* [Procesar elementos en una colección](http://youtu.be/4qp17SaIDzI)
 
