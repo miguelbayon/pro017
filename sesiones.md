@@ -162,12 +162,14 @@
 
 
 #### Para casa
+* [Solución de 0040](http://youtu.be/MEZNpjs515c) (music-organizer-2)
 * [Revisión del proyecto `music-organizer-2`:](http://youtu.be/2f5VJzHCa2s)
 * [Procesar elementos en una colección](http://youtu.be/4qp17SaIDzI)
+
 * [0041](https://github.com/miguelbayon/pro015/blob/master/actividades/0041.md): `listAllFiles` sin bucle
 * [0042](https://github.com/miguelbayon/pro015/blob/master/actividades/0042.md): `listAllFiles` en music-organizer-2
 * [0043](https://github.com/miguelbayon/pro015/blob/master/actividades/0043.md): `ArrayList` en CodePad
-* [Solución de 0040](http://youtu.be/MEZNpjs515c) (music-organizer-2)
+
 * [Solución de 0041](http://youtu.be/F66-2ZQrSFs) (`listAllFiles` sin bucle)
 * [Solución de 0042](http://youtu.be/F66-2ZQrSFs) (`listAllFiles` en music-organizer-2)
 * [Solución de 0043](http://youtu.be/CbxToQ7yeIU) (`ArrayList` en CodePad)
