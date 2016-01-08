@@ -157,6 +157,7 @@
 ### 8 ene, viernes
 * Corrección de [0289](https://github.com/miguelbayon/pro015/blob/master/actividades/0289.md) (alimentos)
 * [0040](https://github.com/miguelbayon/pro015/blob/master/actividades/0040.md): music-organizer-2
+* [0290](https://github.com/miguelbayon/pro015/blob/master/actividades/0040.md): alimentos: clase `Usuario`
 * [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
 
 
