@@ -158,8 +158,7 @@
 * Corrección de [0289](https://github.com/miguelbayon/pro015/blob/master/actividades/0289.md) (alimentos)
 * [0040](https://github.com/miguelbayon/pro015/blob/master/actividades/0040.md): music-organizer-2
 * [0290](https://github.com/miguelbayon/pro015/blob/master/actividades/0290.md): alimentos: clase `Usuario`
-* [0291](https://github.com/miguelbayon/pro015/blob/master/actividades/0290.md): alimentso: porcentajes
-* [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
+* [0291](https://github.com/miguelbayon/pro015/blob/master/actividades/0290.md): alimentos: porcentajes
 
 
 #### Para casa
@@ -168,13 +167,26 @@
 * [Procesar elementos en una colección](http://youtu.be/4qp17SaIDzI)
 * [Ejecución selectiva de operaciones por cada elemento de una colección](http://youtu.be/Zt_0-4xXMZs)
 
+
+### 11 ene, lunes
 * [0041](https://github.com/miguelbayon/pro015/blob/master/actividades/0041.md): `listAllFiles` sin bucle
 * [0042](https://github.com/miguelbayon/pro015/blob/master/actividades/0042.md): `listAllFiles` en music-organizer-2
 * [0043](https://github.com/miguelbayon/pro015/blob/master/actividades/0043.md): `ArrayList` en CodePad
-* [0044](): `list-matching` en music-organizer-2
+* [0044](https://github.com/miguelbayon/pro015/blob/master/actividades/0044.md): `list-matching` en music-organizer-2
 
+
+#### Para casa
 * [Solución de 0041](http://youtu.be/F66-2ZQrSFs) (`listAllFiles` sin bucle)
 * [Solución de 0042](http://youtu.be/F66-2ZQrSFs) (`listAllFiles` en music-organizer-2)
 * [Solución de 0043](http://youtu.be/CbxToQ7yeIU) (`ArrayList` en CodePad)
-* [Solución de 0044]() ()
+* [Solución de 0044](http://youtu.be/oOSgF-W_zR0) (`list-matching` en music-organizer-2)
+
+
+
+### 14 ene, jueves
+
+
+### 15 ene, viernes
+* [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
+
 
