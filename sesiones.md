@@ -169,6 +169,7 @@
 
 
 ### 11 ene, lunes
+* Corrección individual de 0290 y 0291
 * [0041](https://github.com/miguelbayon/pro015/blob/master/actividades/0041.md): `listAllFiles` sin bucle
 * [0042](https://github.com/miguelbayon/pro015/blob/master/actividades/0042.md): `listAllFiles` en music-organizer-2
 * [0043](https://github.com/miguelbayon/pro015/blob/master/actividades/0043.md): `ArrayList` en CodePad
