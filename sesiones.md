@@ -180,7 +180,11 @@
 * [Solución de 0042](http://youtu.be/F66-2ZQrSFs) (`listAllFiles` en music-organizer-2)
 * [Solución de 0043](http://youtu.be/CbxToQ7yeIU) (`ArrayList` en CodePad)
 * [Solución de 0044](http://youtu.be/oOSgF-W_zR0) (`list-matching` en music-organizer-2)
-
+* [Numero de iteraciones definidas y no definidas](http://youtu.be/utBtSvByQRU)
+* [El bucle while](http://youtu.be/SqQQ7ichrRU)
+* [Bucle while VS Bucle for-each](http://youtu.be/sxOYLbtorkQ)
+* [Bucle while: buscando en colecciones](http://youtu.be/ArJnwcLW-vk)
+* [Bucle while: uso sin colecciones](http://youtu.be/115f9VCP2YQ)
 
 
 ### 14 ene, jueves
