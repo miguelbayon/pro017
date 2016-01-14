@@ -193,10 +193,6 @@
 * [0293](https://github.com/miguelbayon/pro015/blob/master/actividades/0293.md): alimento más calorico en dieta
 * [0045](https://github.com/miguelbayon/pro015/blob/master/actividades/0045.md): cabecera bucle for-each
 
-#### Para casa
-* [Bucle while: buscando en colecciones](http://youtu.be/ArJnwcLW-vk)
-* [Bucle while: uso sin colecciones](http://youtu.be/115f9VCP2YQ)
-
 
 ### 15 ene, viernes
 * [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
