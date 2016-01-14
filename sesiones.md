@@ -190,6 +190,7 @@
 
 
 ### 14 ene, jueves
+* [0293](https://github.com/miguelbayon/pro015/blob/master/actividades/0293.md): alimento más calorico en dieta
 * [0045](https://github.com/miguelbayon/pro015/blob/master/actividades/0045.md): cabecera bucle for-each
 
 #### Para casa
