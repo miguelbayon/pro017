@@ -195,6 +195,20 @@
 
 
 ### 15 ene, viernes
+* Corrección de [0293](https://github.com/miguelbayon/pro015/blob/master/actividades/0293.md) (alimento más calorico en dieta)
+* [0294](https://github.com/miguelbayon/pro015/blob/master/actividades/0294.md): alimento por posicion en dieta
+* Corrección de [0294](https://github.com/miguelbayon/pro015/blob/master/actividades/0294.md) (alimento por posicion en dieta)
+* [0295](https://github.com/miguelbayon/pro015/blob/master/actividades/0295.md): alimentos repetidos en dieta
+
+
+### 18 ene, lunes
+* Corrección de [0295](https://github.com/miguelbayon/pro015/blob/master/actividades/0295.md) (alimentos repetidos en dieta)
+
+
+### 21 ene, jueves
+
+
+### 22 ene, viernes
 * [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
 
 
