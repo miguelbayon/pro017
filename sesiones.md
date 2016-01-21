@@ -203,6 +203,8 @@
 
 ### 18 ene, lunes
 * Corrección de [0295](https://github.com/miguelbayon/pro015/blob/master/actividades/0295.md) (alimentos repetidos en dieta)
+* [0047](https://github.com/miguelbayon/pro015/blob/master/actividades/0047.md): pseucodigo y bucle while
+* [0048](https://github.com/miguelbayon/pro015/blob/master/actividades/0048.md): find-first en music-organizer-2
 
 
 ### 21 ene, jueves
