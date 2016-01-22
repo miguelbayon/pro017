@@ -213,6 +213,7 @@
 ### 22 ene, viernes
 * [0193](https://github.com/miguelbayon/pro015/blob/master/actividades/0193.md): test `Calculadora` 1
 * Corrección en clase de [0049](https://github.com/miguelbayon/pro015/blob/master/actividades/0049.md) (bucles while `Calculadora` 1)
+* [0194](https://github.com/miguelbayon/pro015/blob/master/actividades/0194.md): test `Calculadora` 2
 * [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
 
 #### Para casa
