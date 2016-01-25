@@ -225,7 +225,7 @@
 
 
 ### 25 ene. lunes
-* Corrección de [0194](https://github.com/miguelbayon/pro015/blob/master/actividades/0194.md) (bucles while `Calculadora` 2)
+* Corrección de [0194](https://github.com/miguelbayon/pro015/blob/master/actividades/0194.md) (bucles while `Calculadora` 2) mediante [https://www.refactor.io/q/bd5afc17fd](https://www.refactor.io/q/bd5afc17fd)
 * [0195](https://github.com/miguelbayon/pro015/blob/master/actividades/0195.md): bucles while `Calculadora` 3
 * [0052](https://github.com/miguelbayon/pro015/blob/master/actividades/0052.md): music-organizer-5
 * [0053](https://github.com/miguelbayon/pro015/blob/master/actividades/0053.md): music-organizer-5
