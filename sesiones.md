@@ -209,11 +209,13 @@
 
 ### 21 ene, jueves
 * [0049](https://github.com/miguelbayon/pro015/blob/master/actividades/0049.md): bucles while `Calculadora` 1
+* [0051](https://github.com/miguelbayon/pro015/blob/master/actividades/0051.md): music-organizer-5
+
 
 ### 22 ene, viernes
 * [0193](https://github.com/miguelbayon/pro015/blob/master/actividades/0193.md): test `Calculadora` 1
 * Corrección en clase de [0049](https://github.com/miguelbayon/pro015/blob/master/actividades/0049.md) (bucles while `Calculadora` 1)
-* [0194](https://github.com/miguelbayon/pro015/blob/master/actividades/0194.md): test `Calculadora` 2
+* [0194](https://github.com/miguelbayon/pro015/blob/master/actividades/0194.md): bucles while `Calculadora` 2
 * [Evaluación de la práctica docente del primer trimestre](https://docs.google.com/a/iessanandres.com/forms/d/1oXW65Q82cwZD3Cz_6uvzclnk-eur5Kfv0cxVob6NStE/viewform)
 
 #### Para casa
@@ -222,3 +224,13 @@
 * [Revisión del proyecto music-organizer-v5](http://youtu.be/ftRhTXVzWIU)
 
 
+### 25 ene. lunes
+* Corrección de [0194](https://github.com/miguelbayon/pro015/blob/master/actividades/0194.md) (bucles while `Calculadora` 2)
+* [0195](https://github.com/miguelbayon/pro015/blob/master/actividades/0195.md): bucles while `Calculadora` 3
+* [0052](https://github.com/miguelbayon/pro015/blob/master/actividades/0052.md): music-organizer-5
+* [0053](https://github.com/miguelbayon/pro015/blob/master/actividades/0053.md): music-organizer-5
+* [0054](https://github.com/miguelbayon/pro015/blob/master/actividades/0054.md): music-organizer-5
+
+
+#### Para casa
+* [Iteradores](http://youtu.be/Qsa4CMR9SQI)
