@@ -231,6 +231,10 @@
 * [0053](https://github.com/miguelbayon/pro015/blob/master/actividades/0053.md): music-organizer-5
 * [0054](https://github.com/miguelbayon/pro015/blob/master/actividades/0054.md): music-organizer-5
 
-
 #### Para casa
 * [Iteradores](http://youtu.be/Qsa4CMR9SQI)
+
+
+### 28 ene, jueves
+* [0055](https://github.com/miguelbayon/pro015/blob/master/actividades/0055.md): `listAllTrackWithIterator`, `removeByArtist` y `removeByTitle` en music-organizer-5
+* [0057](https://github.com/miguelbayon/pro015/blob/master/actividades/0057.md): `playRandom`, `playShuffle` y `playShuffle2` en music-organizer-5
