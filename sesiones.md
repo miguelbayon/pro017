@@ -244,4 +244,10 @@
 * [Solución a 0055](http://youtu.be/dXiexU9SBRE)
 * [Solución a 0057](http://youtu.be/iaWfx9hc8I8)
 * [0056](https://github.com/miguelbayon/pro015/blob/master/actividades/0056.md): proyecto `club`
+* [0197](https://github.com/miguelbayon/pro015/blob/master/actividades/0197.md): emparejar alumnos
+
+#### Para casa
+* [Proyecto Auction](http://youtu.be/QxYKmDYpPsk)
+
+
 
