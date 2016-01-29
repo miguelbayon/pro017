@@ -238,3 +238,10 @@
 ### 28 ene, jueves
 * [0055](https://github.com/miguelbayon/pro015/blob/master/actividades/0055.md): `listAllTrackWithIterator`, `removeByArtist` y `removeByTitle` en music-organizer-5
 * [0057](https://github.com/miguelbayon/pro015/blob/master/actividades/0057.md): `playRandom`, `playShuffle` y `playShuffle2` en music-organizer-5
+
+
+### 29 ene, viernes
+* [Solución a 0055](http://youtu.be/dXiexU9SBRE)
+* [Solución a 0057](http://youtu.be/iaWfx9hc8I8)
+* [0056](https://github.com/miguelbayon/pro015/blob/master/actividades/0056.md): proyecto `club`
+
