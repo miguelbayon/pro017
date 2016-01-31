@@ -250,4 +250,13 @@
 * [Proyecto Auction](http://youtu.be/QxYKmDYpPsk)
 
 
+### 1 feb, lunes
+* [0058](https://github.com/miguelbayon/pro015/blob/master/actividades/0058.md): proyecto auction
+* [Solución a 0058](http://youtu.be/7s3xt6egv_k)
+* [Palabra reservada null](http://youtu.be/P7zM_3-5CxA)
+* [Objetos anónimos](http://youtu.be/c0DRDIagCq8)
+* [0059](https://github.com/miguelbayon/pro015/blob/master/actividades/0059.md): objetos anónimos
+* [Solución a 0059](http://youtu.be/gdW-X5o2xVQ)
+* [Invocaciones de métodos en cadena](http://youtu.be/Etf_5WCzOKg)
+
 
