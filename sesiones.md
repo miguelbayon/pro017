@@ -251,6 +251,7 @@
 
 
 ### 1 feb, lunes
+* [Solución a 0197](https://github.com/miguelbayon/pro015/blob/master/actividades/0197.md) (emparejar alumnos)
 * [0058](https://github.com/miguelbayon/pro015/blob/master/actividades/0058.md): proyecto auction
 * [Solución a 0058](http://youtu.be/7s3xt6egv_k)
 * [Palabra reservada null](http://youtu.be/P7zM_3-5CxA)
@@ -258,5 +259,9 @@
 * [0059](https://github.com/miguelbayon/pro015/blob/master/actividades/0059.md): objetos anónimos
 * [Solución a 0059](http://youtu.be/gdW-X5o2xVQ)
 * [Invocaciones de métodos en cadena](http://youtu.be/Etf_5WCzOKg)
+
+
+### 4 feb, jueves
+* [Solución a 0198](https://github.com/miguelbayon/pro015/blob/master/actividades/0198.md) (busquedas en parejas de alumnos)
 
 
