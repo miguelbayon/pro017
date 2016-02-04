@@ -265,5 +265,11 @@
 
 ### 4 feb, jueves
 * [Solución a 0198](https://github.com/miguelbayon/pro015/blob/master/actividades/0198.md) (busquedas en parejas de alumnos)
+* [0060](https://github.com/miguelbayon/pro015/blob/master/actividades/0060.md): `close` en auction
+* [0061](https://github.com/miguelbayon/pro015/blob/master/actividades/0061.md): `getUnsold`en auction
+* [0062](https://github.com/miguelbayon/pro015/blob/master/actividades/0062.md): `removeLot`en auction
+
+
+### 5 feb, viernes
 
 
