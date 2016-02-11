@@ -279,6 +279,7 @@
 
 ### 11 feb, jueves
 * Corrección de [0703](https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md) (inicio de juego de cartas por parejas)
+  *  [Código en Codeshare](https://codeshare.io/Qs8Vt)
 * 
 
 #### Para casa
