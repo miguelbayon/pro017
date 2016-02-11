@@ -274,11 +274,11 @@
 * Corrección de [0060](https://github.com/miguelbayon/pro015/blob/master/actividades/0060.md) (`close` en auction)
 * Corrección de [0061](https://github.com/miguelbayon/pro015/blob/master/actividades/0061.md) (`getUnsold`en auction)
 * Explicación en la pizarra de flujo simple de trabajo colaborativo en Github
-* [0703](/https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md): inicio de juego de cartas por parejas
+* [0703](https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md): inicio de juego de cartas por parejas
 
 
 ### 11 feb, jueves
-* Corrección de [0703](/https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md) (inicio de juego de cartas por parejas)
+* Corrección de [0703](https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md) (inicio de juego de cartas por parejas)
 * 
 
 #### Para casa
