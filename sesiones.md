@@ -281,3 +281,9 @@
 * Corrección de [0703](/https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md) (inicio de juego de cartas por parejas)
 * 
 
+#### Para casa
+* [Introducción a los arrays](http://youtu.be/eTKe-JpiPEw)
+* [Declaración, inicialización y uso de arrays](http://youtu.be/kADN6dgmNi0)
+* [Bucle for: introducción](http://youtu.be/L5IzjfYjsjY)
+* [Bucle for: estructura](http://youtu.be/Qksp7c01Ssw)
+* [Bucle for: uso con arrays](http://youtu.be/vmudvJgZAZM)
