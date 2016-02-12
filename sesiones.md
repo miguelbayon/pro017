@@ -280,7 +280,6 @@
 ### 11 feb, jueves
 * Corrección de [0703](https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md) (inicio de juego de cartas por parejas)
   *  [Código en Codeshare](https://codeshare.io/Qs8Vt)
-* 
 
 #### Para casa
 * [Introducción a los arrays](http://youtu.be/eTKe-JpiPEw)
@@ -288,3 +287,8 @@
 * [Bucle for: introducción](http://youtu.be/L5IzjfYjsjY)
 * [Bucle for: estructura](http://youtu.be/Qksp7c01Ssw)
 * [Bucle for: uso con arrays](http://youtu.be/vmudvJgZAZM)
+
+### 12 feb, viernes
+* Corrección de [0703](https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md) (inicio de juego de cartas por parejas)
+  * [Código en Codeshare](https://codeshare.io/Qs8Vt)
+* 
