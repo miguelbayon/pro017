@@ -291,4 +291,16 @@
 ### 12 feb, viernes
 * Corrección de [0703](https://github.com/miguelbayon/pro015/blob/master/actividades/0703.md) (inicio de juego de cartas por parejas)
   * [Código en Codeshare](https://codeshare.io/Qs8Vt)
+
+
+### 15 feb, lunes
+* [0072](https://github.com/miguelbayon/pro015/blob/master/actividades/0072.md): errores en bucle for
+* [0063](https://github.com/miguelbayon/pro015/blob/master/actividades/0063.md): `joinedMonth` y `purge` en club
+* Corrección de [0063](https://github.com/miguelbayon/pro015/blob/master/actividades/0063.md): (`joinedMonth` y `purge` en club)
+* [0064](https://github.com/miguelbayon/pro015/blob/master/actividades/0064.md): `printProductDetails` en products
+
+
+### 18 feb, jueves
+* [0704](https://github.com/miguelbayon/pro015/blob/master/actividades/0704.md): `findProduct`, `numberInStock` y `delivery` en products
+* [0065](https://github.com/miguelbayon/pro015/blob/master/actividades/0065.md): `underGivenNumberInStock`, `addProduct`  y `findProduct` en products
 * 
