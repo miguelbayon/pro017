@@ -302,5 +302,9 @@
 
 ### 18 feb, jueves
 * [0704](https://github.com/miguelbayon/pro015/blob/master/actividades/0704.md): `findProduct`, `numberInStock` y `delivery` en products
+* Corrección de [0704](https://github.com/miguelbayon/pro015/blob/master/actividades/0704.md) (findProduct`, `numberInStock` y `delivery` en products)
+
+
+### 19 feb, viernes
 * [0065](https://github.com/miguelbayon/pro015/blob/master/actividades/0065.md): `underGivenNumberInStock`, `addProduct`  y `findProduct` en products
-* 
+* Corrección de [0065](https://github.com/miguelbayon/pro015/blob/master/actividades/0065.md) (underGivenNumberInStock`, `addProduct`  y `findProduct` en products)
