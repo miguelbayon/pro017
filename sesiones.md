@@ -317,4 +317,5 @@
 ### 22 feb, lunes
 * Corrección de [0070](https://github.com/miguelbayon/pro015/blob/master/actividades/0070.md) (`printHourlyCounts` y constructor con parámetro en `LogAnalyzer`)
 * Correccion de [0073](https://github.com/miguelbayon/pro015/blob/master/actividades/0073.md) (`numberOfAccesses` y `busiestHour` en weblog-analyzer)
-
+* [0705](https://github.com/miguelbayon/pro015/blob/master/actividades/0705.md): `quietestHour` y dos horas con más carga
+* [0074](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md):  `analyzeDailyData` y `printDailyCounts`
