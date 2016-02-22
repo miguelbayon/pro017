@@ -308,3 +308,13 @@
 ### 19 feb, viernes
 * [0065](https://github.com/miguelbayon/pro015/blob/master/actividades/0065.md): `underGivenNumberInStock`, `addProduct`  y `findProduct` en products
 * Corrección de [0065](https://github.com/miguelbayon/pro015/blob/master/actividades/0065.md) (underGivenNumberInStock`, `addProduct`  y `findProduct` en products)
+* [0069](https://github.com/miguelbayon/pro015/blob/master/actividades/0069.md): entendiendo weblog-analyzer
+* Corrección de [0069](https://github.com/miguelbayon/pro015/blob/master/actividades/0069.md): entendiendo weblog-analyzer
+* [0070](https://github.com/miguelbayon/pro015/blob/master/actividades/0070.md): `printHourlyCounts` y constructor con parámetro en `LogAnalyzer`
+* [0073](https://github.com/miguelbayon/pro015/blob/master/actividades/0073.md): `numberOfAccesses` y `busiestHour` en weblog-analyzer
+
+
+### 22 feb, lunes
+* Corrección de [0070](https://github.com/miguelbayon/pro015/blob/master/actividades/0070.md) (`printHourlyCounts` y constructor con parámetro en `LogAnalyzer`)
+* Correccion de [0073](https://github.com/miguelbayon/pro015/blob/master/actividades/0073.md) (`numberOfAccesses` y `busiestHour` en weblog-analyzer)
+
