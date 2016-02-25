@@ -319,3 +319,11 @@
 * Correccion de [0073](https://github.com/miguelbayon/pro015/blob/master/actividades/0073.md) (`numberOfAccesses` y `busiestHour` en weblog-analyzer)
 * [0705](https://github.com/miguelbayon/pro015/blob/master/actividades/0705.md): `quietestHour` y dos horas con más carga
 * [0074](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md):  `analyzeDailyData` y `printDailyCounts`
+
+
+### 25 feb, jueves
+* Correción de [0705](https://github.com/miguelbayon/pro015/blob/master/actividades/0705.md): `quietestHour` y dos horas con más carga
+* Corrección de [0074](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md):  `analyzeDailyData` y `printDailyCounts`
+* 
+
+
