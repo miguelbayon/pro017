@@ -323,7 +323,11 @@
 
 ### 25 feb, jueves
 * Correción de [0705](https://github.com/miguelbayon/pro015/blob/master/actividades/0705.md): `quietestHour` y dos horas con más carga
+
+
+### 26 feb, viernes
 * Corrección de [0074](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md):  `analyzeDailyData` y `printDailyCounts`
-* 
+* [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md): `ArrayListInt`
+
 
 
