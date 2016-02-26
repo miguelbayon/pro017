@@ -329,5 +329,11 @@
 * Corrección de [0074](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md):  `analyzeDailyData` y `printDailyCounts`
 * [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md): `ArrayListInt`
 
+#### Para casa
+* [Consultar la documentación de una clase en Java](http://youtu.be/ldcycoCb_pA)
+* [Documentación de Java 8](http://docs.oracle.com/javase/8/docs/api/)
+* [Interfaz vs Implementación](http://youtu.be/fGWWeN10FvM)
+* [Clase String: inmutabilidad y métodos](http://youtu.be/e903wIMZQ3Y)
+* [Comparación de objetos String](http://youtu.be/-0mM6W9ZMVM)
 
 
