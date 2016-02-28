@@ -337,3 +337,6 @@
 * [Comparación de objetos String](http://youtu.be/-0mM6W9ZMVM)
 
 
+### 29 feb, lunes
+* Corrección de [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md) (`ArrayListInt`)
+
