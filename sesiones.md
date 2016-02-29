@@ -327,7 +327,7 @@
 
 ### 26 feb, viernes
 * Corrección de [0074](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md):  `analyzeDailyData` y `printDailyCounts`
-* [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md): `ArrayListInt`
+* [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0078.md): `ArrayListInt`
 
 #### Para casa
 * [Consultar la documentación de una clase en Java](http://youtu.be/ldcycoCb_pA)
@@ -338,5 +338,5 @@
 
 
 ### 29 feb, lunes
-* Corrección de [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0074.md) (`ArrayListInt`)
+* Corrección de [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0078.md) (`ArrayListInt`)
 
