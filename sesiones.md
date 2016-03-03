@@ -353,7 +353,15 @@
 * [0083](https://github.com/miguelbayon/pro015/blob/master/actividades/0083.md)
 * [0084](https://github.com/miguelbayon/pro015/blob/master/actividades/0084.md)
 * [0085](https://github.com/miguelbayon/pro015/blob/master/actividades/0085.md)
-* [0086](https://github.com/miguelbayon/pro015/blob/master/actividades/0086.md)
 
+#### Para casa
+* [Solución a 0082](https://www.youtube.com/watch?v=8kkYVBJf92s)
+* [Solución a 0083](https://www.youtube.com/watch?v=JZ55r3zTDd4)
+* [Solución a 0084](https://www.youtube.com/watch?v=bDzA4g7bqtU)
+* [Solución a 0085](https://www.youtube.com/watch?v=oI9ai5Lab7A)
+
+
+### 4 mar, viernes
+* [0086](https://github.com/miguelbayon/pro015/blob/master/actividades/0086.md)
 
 
