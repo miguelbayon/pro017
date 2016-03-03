@@ -339,4 +339,20 @@
 
 ### 29 feb, lunes
 * Corrección de [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0078.md) (`ArrayListInt`)
+* [0076](https://github.com/miguelbayon/pro015/blob/master/actividades/0076.md)
+* [0080](https://github.com/miguelbayon/pro015/blob/master/actividades/0080.md)
+* [0081](https://github.com/miguelbayon/pro015/blob/master/actividades/0081.md)
+
+#### Para casa
+* [Solución a 0081](http://youtu.be/K8Mymy_i9ZA)
+
+
+### 3 mar, jueves
+* Corrección de [0078](https://github.com/miguelbayon/pro015/blob/master/actividades/0078.md) (`ArrayListInt`)
+* [0082](https://github.com/miguelbayon/pro015/blob/master/actividades/0082.md)
+* [0083](https://github.com/miguelbayon/pro015/blob/master/actividades/0083.md)
+* [0084](https://github.com/miguelbayon/pro015/blob/master/actividades/0084.md)
+* [0085](https://github.com/miguelbayon/pro015/blob/master/actividades/0084.md)
+
+
 
