@@ -365,9 +365,9 @@
 * [0086](https://github.com/miguelbayon/pro015/blob/master/actividades/0086.md): respuestas aleatorias en support-system
 * [Leer documentación de clases genéricas o parametrizadas](http://youtu.be/AOzisqVXdtM)
 * [Importación de paquetes](http://youtu.be/FmQiQ_P5JTE)
-* [Solución a 0086](http://youtu.be/kmhjosBg2PY) (respuestas aleatorias en support-system
+* [Solución a 0086](http://youtu.be/kmhjosBg2PY) (respuestas aleatorias en support-system)
 * [0088](https://github.com/miguelbayon/pro015/blob/master/actividades/0088.md): investigando la clase `HashMap`
 * [Mapas y clase Hashmap](http://youtu.be/QhdMIxpvcfk)
-* [0086](https://github.com/miguelbayon/pro015/blob/master/actividades/0086.md): agenda telefónica
+* [0089](https://github.com/miguelbayon/pro015/blob/master/actividades/0089.md): agenda telefónica
 
 
