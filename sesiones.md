@@ -370,4 +370,8 @@
 * [Mapas y clase Hashmap](http://youtu.be/QhdMIxpvcfk)
 * [0089](https://github.com/miguelbayon/pro015/blob/master/actividades/0089.md): agenda telefónica
 
+#### Para casa
+* [0090](https://github.com/miguelbayon/pro015/blob/master/actividades/0090.md): preguntas sobre la clase `HashMap`
+* [0091](https://github.com/miguelbayon/pro015/blob/master/actividades/0091.md): `printAllKeys` en agenda telefonica
+
 
