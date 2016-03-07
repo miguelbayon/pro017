@@ -373,5 +373,17 @@
 #### Para casa
 * [0090](https://github.com/miguelbayon/pro015/blob/master/actividades/0090.md): preguntas sobre la clase `HashMap`
 * [0091](https://github.com/miguelbayon/pro015/blob/master/actividades/0091.md): `printAllKeys` en agenda telefonica
+* [Solución a 0089](http://youtu.be/rVrpTZTccJQ)
+* [Solución a 0090](http://youtu.be/cU8VxsHWAYc)
+* [Solución a 0091](http://youtu.be/nZolHYAi4xc)
 
 
+### 7 mar, lunes
+* [0092](https://github.com/miguelbayon/pro015/blob/master/actividades/0090.md): respuestas en support-system por palabras clave
+* [Solución a 0092]()
+* 
+
+#### Para casa
+* [Conjuntos y clase HashSet](http://youtu.be/PVmnj7S7C7s)
+* [Documentación de clases](http://youtu.be/WxkR0DHlpFc)
+* [Público vs privado](http://youtu.be/SR56ILDCkXQ)
