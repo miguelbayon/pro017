@@ -379,11 +379,14 @@
 
 
 ### 7 mar, lunes
-* [0092](https://github.com/miguelbayon/pro015/blob/master/actividades/0090.md): respuestas en support-system por palabras clave
-* [Solución a 0092]()
-* 
+* [0092](https://github.com/miguelbayon/pro015/blob/master/actividades/0092.md): respuestas en support-system por palabras clave
+* [0735](https://github.com/miguelbayon/pro015/blob/master/actividades/0735.md): clase `HashMapInt`
 
 #### Para casa
 * [Conjuntos y clase HashSet](http://youtu.be/PVmnj7S7C7s)
 * [Documentación de clases](http://youtu.be/WxkR0DHlpFc)
 * [Público vs privado](http://youtu.be/SR56ILDCkXQ)
+
+
+### 10 mar, jueves
+* [Solución a 0092](https://youtu.be/zsvfwjPXRN0)
