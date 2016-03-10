@@ -390,3 +390,4 @@
 
 ### 10 mar, jueves
 * [Solución a 0092](https://youtu.be/zsvfwjPXRN0)
+* [0093](https://github.com/miguelbayon/pro015/blob/master/actividades/0093.md): metodo ``split``
