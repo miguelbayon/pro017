@@ -390,4 +390,14 @@
 
 ### 10 mar, jueves
 * [Solución a 0092](https://youtu.be/zsvfwjPXRN0)
-* [0093](https://github.com/miguelbayon/pro015/blob/master/actividades/0093.md): metodo ``split``
+* [0093](https://github.com/miguelbayon/pro015/blob/master/actividades/0093.md): metodo `split`
+
+
+### 11 mar, viernes
+* [0094](https://github.com/miguelbayon/pro015/blob/master/actividades/0094.md): `inputReader` devuelve un conjunto
+* [0095](https://github.com/miguelbayon/pro015/blob/master/actividades/0095.md): `generateResponse` contesta a una palabra del conjunto
+* [0096](https://github.com/miguelbayon/pro015/blob/master/actividades/0096.md): `generateResponse` contesta a un conjunto de palabras
+* [Solución a 0093](https://youtu.be/KLwAHlVuG-A)
+* [Solución a 0094](https://youtu.be/8Gavn1EuLBs)
+* [Solución a 0095](https://youtu.be/SPnB9BiIuPA)
+* [Solución a 0096](https://youtu.be/GoSK1xo24x8)
