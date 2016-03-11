@@ -401,3 +401,4 @@
 * [Solución a 0094](https://youtu.be/8Gavn1EuLBs)
 * [Solución a 0095](https://youtu.be/SPnB9BiIuPA)
 * [Solución a 0096](https://youtu.be/GoSK1xo24x8)
+* Corrección de 0735 usando [`TestMiHashMap`](https://gist.github.com/miguelbayon/5052fd89dcb53b46bdb8)
