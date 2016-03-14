@@ -402,3 +402,14 @@
 * [Solución a 0095](https://youtu.be/SPnB9BiIuPA)
 * [Solución a 0096](https://youtu.be/GoSK1xo24x8)
 * Corrección de 0735 usando [`TestMiHashMap`](https://gist.github.com/miguelbayon/5052fd89dcb53b46bdb8)
+
+
+### 14 mar, lunes
+* [0096](https://github.com/miguelbayon/pro015/blob/master/actividades/0096.md): clase `MiHashSet`
+* Corrección de [0096]((https://github.com/miguelbayon/pro015/blob/master/actividades/0096.md) (clase `MiHashSet`)
+* [0098](https://github.com/miguelbayon/pro015/blob/master/actividades/0098.md): proyecto `scribble`
+* [0099](https://github.com/miguelbayon/pro015/blob/master/actividades/0098.md): añadir métodos de dibujo al proyecto `scribble`
+
+
+#### Para casa
+* [Autocompletado de código](http://youtu.be/jWS3W9xBHzQ)
