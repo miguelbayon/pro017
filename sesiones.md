@@ -410,6 +410,9 @@
 * [0098](https://github.com/miguelbayon/pro015/blob/master/actividades/0098.md): proyecto `scribble`
 * [0099](https://github.com/miguelbayon/pro015/blob/master/actividades/0098.md): añadir métodos de dibujo al proyecto `scribble`
 
-
 #### Para casa
 * [Autocompletado de código](http://youtu.be/jWS3W9xBHzQ)
+* [Solución a 0099](http://youtu.be/Hr7kDzT_VqQ)
+
+
+### 17 mar, jueves
