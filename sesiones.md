@@ -414,5 +414,12 @@
 * [Autocompletado de código](http://youtu.be/jWS3W9xBHzQ)
 * [Solución a 0099](http://youtu.be/Hr7kDzT_VqQ)
 
-
 ### 17 mar, jueves
+* [0100](https://github.com/miguelbayon/pro015/blob/master/actividades/0100.md)
+
+
+### 18 mar, viernes
+* Corrección de [0079](https://github.com/miguelbayon/pro015/blob/master/actividades/0079.md)
+  * [Pagina en Codeshare](https://codeshare.io/6qTZN)
+
+
