@@ -421,5 +421,15 @@
 ### 18 mar, viernes
 * Corrección de [0079](https://github.com/miguelbayon/pro015/blob/master/actividades/0079.md)
   * [Pagina en Codeshare](https://codeshare.io/6qTZN)
+  
+
+### 31 mar, jueves
+* [0101](https://github.com/miguelbayon/pro015/blob/master/actividades/0101.md)
+
+
+#### Para casa
+* [Variables estáticas o de clase](http://youtu.be/Qi1ptpKHx2w)
+* [Constantes](http://youtu.be/p4M68fEQrTY)
+* [Solución 0100](http://youtu.be/b-jLKZBH5Ek)
 
 
