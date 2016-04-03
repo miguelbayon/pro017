@@ -433,3 +433,9 @@
 * [Solución 0100](http://youtu.be/b-jLKZBH5Ek)
 
 
+### 1 abr, viernes
+* [0102](https://github.com/miguelbayon/pro015/blob/master/actividades/0102.md)
+* Corrección de [0101](https://github.com/miguelbayon/pro015/blob/master/actividades/0101.md)
+* [0104](https://github.com/miguelbayon/pro015/blob/master/actividades/0104.md)
+* [0105](https://github.com/miguelbayon/pro015/blob/master/actividades/0105.md)
+* [0071](https://github.com/miguelbayon/pro015/blob/master/actividades/0071.md)
