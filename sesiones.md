@@ -443,6 +443,7 @@
 
 ### 4 abr, lunes
 * [0071](https://github.com/miguelbayon/pro015/blob/master/actividades/0071.md)
+* [0692](https://github.com/miguelbayon/pro015/blob/master/actividades/0692.md): `drawSnake` en `SnakeGame`
 
 #### Para casa
 * [Introducción al diseño de clases](http://youtu.be/E0lg9DqObR0)
