@@ -445,6 +445,16 @@
 * [0071](https://github.com/miguelbayon/pro015/blob/master/actividades/0071.md)
 * [0692](https://github.com/miguelbayon/pro015/blob/master/actividades/0692.md): `drawSnake` en `SnakeGame`
 
+
+
+
+### 5 abr, martes
+* Correción de [0692](https://github.com/miguelbayon/pro015/blob/master/actividades/0692.md): `drawSnake` en `SnakeGame`
+
+
+### 7 abr, jueves
+* [0693](https://github.com/miguelbayon/pro015/blob/master/actividades/0693.md): `animateSnake` y `startGame` en `SnakeGame`
+
 #### Para casa
 * [Introducción al diseño de clases](http://youtu.be/E0lg9DqObR0)
 * [Introducción al acoplamiento y la cohesión](http://youtu.be/sOAFiBrIkZ8)
