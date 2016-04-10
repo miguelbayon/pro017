@@ -459,3 +459,11 @@
 * [Introducción al diseño de clases](http://youtu.be/E0lg9DqObR0)
 * [Introducción al acoplamiento y la cohesión](http://youtu.be/sOAFiBrIkZ8)
 * [Repetición de código](http://youtu.be/SBkyofBiR6E)
+
+### 8 abr, viernes
+* [0106](https://github.com/miguelbayon/pro015/blob/master/actividades/0106.md)
+* [0107](https://github.com/miguelbayon/pro015/blob/master/actividades/0107.md)
+
+
+### 111 abr, lunes
+* [0108](https://github.com/miguelbayon/pro015/blob/master/actividades/0108.md)
