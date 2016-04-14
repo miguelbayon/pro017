@@ -465,7 +465,7 @@
 * [0107](https://github.com/miguelbayon/pro015/blob/master/actividades/0107.md)
 
 
-### 111 abr, lunes
+### 11 abr, lunes
 * [0108](https://github.com/miguelbayon/pro015/blob/master/actividades/0108.md)
 * [0109](https://github.com/miguelbayon/pro015/blob/master/actividades/0109.md)
 * [0110](https://github.com/miguelbayon/pro015/blob/master/actividades/0110.md)
@@ -473,3 +473,17 @@
 * [0112](https://github.com/miguelbayon/pro015/blob/master/actividades/0112.md)
 * [0113](https://github.com/miguelbayon/pro015/blob/master/actividades/0113.md)
 * [0114](https://github.com/miguelbayon/pro015/blob/master/actividades/0114.md)
+
+
+### 14 abr, jueves
+* [Solución a la actividad 0107](http://youtu.be/Y-L2oKbAiNg)
+* [Solución a la actividad 0108](http://youtu.be/hcoMgZl12iM)
+* [Solución a la actividad 0109](http://youtu.be/70rLuGytmpY)
+* [Solución a la actividad 0110](http://youtu.be/pqZN7Q1qS0c)
+* [Solución a la actividad 0111](http://youtu.be/iUSkit4wFmA)
+* [Solución a la actividad 0112](http://youtu.be/UE3PZpDYUB4)
+* [Solución a la actividad 0113](http://youtu.be/Q9avK8OEdWo)
+* [Solución a la actividad 0114](http://youtu.be/J5OJ4fDj65w)
+* [0115](https://github.com/miguelbayon/pro015/blob/master/actividades/0115.md)
+* [0116](https://github.com/miguelbayon/pro015/blob/master/actividades/0116.md)
+* [0117](https://github.com/miguelbayon/pro015/blob/master/actividades/0117.md)
