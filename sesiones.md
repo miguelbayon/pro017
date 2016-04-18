@@ -491,3 +491,10 @@
 
 ### 15 abr, viernes
 * Carrera Solidaria
+
+
+### 18 abr, lunes
+* [0118](https://github.com/miguelbayon/pro015/blob/master/actividades/0118.md)
+* [0119](https://github.com/miguelbayon/pro015/blob/master/actividades/0119.md)
+* [Ramas en git](http://youtu.be/a59Apqn1csE)
+* [Refactorización](http://youtu.be/H1jkhnroGqA)
