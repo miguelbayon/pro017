@@ -487,3 +487,7 @@
 * [0115](https://github.com/miguelbayon/pro015/blob/master/actividades/0115.md)
 * [0116](https://github.com/miguelbayon/pro015/blob/master/actividades/0116.md)
 * [0117](https://github.com/miguelbayon/pro015/blob/master/actividades/0117.md)
+
+
+### 15 abr, viernes
+* Carrera Solidaria
