@@ -491,6 +491,9 @@
 
 ### 15 abr, viernes
 * Carrera Solidaria
+* [Solución a la actividad 0115](http://youtu.be/NN-9pnL-jzA)
+* [Solución a la actividad 0116](http://youtu.be/Pt7imt9G7i8)
+* [Solución a la actividad 0117](http://youtu.be/brQnl1z23ww)
 
 
 ### 18 abr, lunes
