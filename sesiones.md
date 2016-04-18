@@ -461,18 +461,18 @@
 * [Repetición de código](http://youtu.be/SBkyofBiR6E)
 
 ### 8 abr, viernes
-* [0106](https://github.com/miguelbayon/pro015/blob/master/actividades/0106.md)
-* [0107](https://github.com/miguelbayon/pro015/blob/master/actividades/0107.md)
+* [0106](https://github.com/miguelbayon/pro015/blob/master/actividades/0106.md): mapa del juego original 
+* [0107](https://github.com/miguelbayon/pro015/blob/master/actividades/0107.md): mapa propio e implementación
 
 
 ### 11 abr, lunes
-* [0108](https://github.com/miguelbayon/pro015/blob/master/actividades/0108.md)
-* [0109](https://github.com/miguelbayon/pro015/blob/master/actividades/0109.md)
-* [0110](https://github.com/miguelbayon/pro015/blob/master/actividades/0110.md)
-* [0111](https://github.com/miguelbayon/pro015/blob/master/actividades/0111.md)
-* [0112](https://github.com/miguelbayon/pro015/blob/master/actividades/0112.md)
-* [0113](https://github.com/miguelbayon/pro015/blob/master/actividades/0113.md)
-* [0114](https://github.com/miguelbayon/pro015/blob/master/actividades/0114.md)
+* [0108](https://github.com/miguelbayon/pro015/blob/master/actividades/0108.md): eliminada reptición de código
+* [0109](https://github.com/miguelbayon/pro015/blob/master/actividades/0109.md): proyecto `cities-visited`
+* [0110](https://github.com/miguelbayon/pro015/blob/master/actividades/0110.md): añadida dirección de salida sureste
+* [0111](https://github.com/miguelbayon/pro015/blob/master/actividades/0111.md): encapsulamiento en clase `Room`
+* [0112](https://github.com/miguelbayon/pro015/blob/master/actividades/0112.md): usando un `hashMap` para las salidas
+* [0113](https://github.com/miguelbayon/pro015/blob/master/actividades/0113.md): cualquier direccion de salida es posible
+* [0114](https://github.com/miguelbayon/pro015/blob/master/actividades/0114.md): `getLongDescription` y responsability driven design
 
 
 ### 14 abr, jueves
@@ -484,9 +484,9 @@
 * [Solución a la actividad 0112](http://youtu.be/UE3PZpDYUB4)
 * [Solución a la actividad 0113](http://youtu.be/Q9avK8OEdWo)
 * [Solución a la actividad 0114](http://youtu.be/J5OJ4fDj65w)
-* [0115](https://github.com/miguelbayon/pro015/blob/master/actividades/0115.md)
-* [0116](https://github.com/miguelbayon/pro015/blob/master/actividades/0116.md)
-* [0117](https://github.com/miguelbayon/pro015/blob/master/actividades/0117.md)
+* [0115](https://github.com/miguelbayon/pro015/blob/master/actividades/0115.md): comando `look`
+* [0116](https://github.com/miguelbayon/pro015/blob/master/actividades/0116.md): 2 opciones para mostrar comandos disponibles
+* [0117](https://github.com/miguelbayon/pro015/blob/master/actividades/0117.md): posibilidad de un item por localizacion
 
 
 ### 15 abr, viernes
@@ -497,7 +497,8 @@
 
 
 ### 18 abr, lunes
-* [0118](https://github.com/miguelbayon/pro015/blob/master/actividades/0118.md)
-* [0119](https://github.com/miguelbayon/pro015/blob/master/actividades/0119.md)
+* [0118](https://github.com/miguelbayon/pro015/blob/master/actividades/0118.md): multiples o ningún objeto en las localizaciones
+* [0119](https://github.com/miguelbayon/pro015/blob/master/actividades/0119.md): comando `back`
 * [Ramas en git](http://youtu.be/a59Apqn1csE)
 * [Refactorización](http://youtu.be/H1jkhnroGqA)
+* [0120](https://github.com/miguelbayon/pro015/blob/master/actividades/0120.md): refactorizacion: añadida clase `Player`
