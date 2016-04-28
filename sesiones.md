@@ -502,3 +502,21 @@
 * [Ramas en git](http://youtu.be/a59Apqn1csE)
 * [Refactorización](http://youtu.be/H1jkhnroGqA)
 * [0120](https://github.com/miguelbayon/pro015/blob/master/actividades/0120.md): refactorizacion: añadida clase `Player`
+
+
+### 21 abr, jueves
+* [0121](https://github.com/miguelbayon/pro015/blob/master/actividades/0121.md)
+
+
+### 22 abr, viernes
+* Visita a Proconsi
+
+
+### 25 abr, lunes
+* [0122](https://github.com/miguelbayon/pro015/blob/master/actividades/0122.md)
+* [0123](https://github.com/miguelbayon/pro015/blob/master/actividades/0123.md)
+* [0124](https://github.com/miguelbayon/pro015/blob/master/actividades/0124.md)
+
+
+### 28 abr, jueves
+* [0125](https://github.com/miguelbayon/pro015/blob/master/actividades/0125.md): 2 funcionalidades propias
