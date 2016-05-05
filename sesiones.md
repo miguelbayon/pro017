@@ -520,3 +520,16 @@
 
 ### 28 abr, jueves
 * [0125](https://github.com/miguelbayon/pro015/blob/master/actividades/0125.md): 2 funcionalidades propias
+
+
+### 29 abr, viernes
+
+
+### 2 may, lunes
+* Fiesta del día del trabajo
+
+
+### 5 may, jueves
+* Correciones en clase de [0120](https://github.com/miguelbayon/pro015/blob/master/actividades/0120.md) (refactorizacion: añadida clase `Player`)
+
+
