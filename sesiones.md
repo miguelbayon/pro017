@@ -528,8 +528,21 @@
 ### 2 may, lunes
 * Fiesta del día del trabajo
 
-
 ### 5 may, jueves
 * Correciones en clase de [0120](https://github.com/miguelbayon/pro015/blob/master/actividades/0120.md) (refactorizacion: añadida clase `Player`)
+
+### 6 may, viernes
+* Sin clase: excursión con 1º ESO al Centro de Alto Rendimiento
+
+#### Para casa
+* [Métodos estáticos](http://youtu.be/OpCUHNDGdBQ)
+
+### 9 may, lunes
+* [0126](https://github.com/miguelbayon/pro015/blob/master/actividades/0126.md)
+* [0127]( https://github.com/miguelbayon/pro015/blob/master/actividades/0127.md)
+* [0128](https://github.com/miguelbayon/pro015/blob/master/actividades/0128.md)
+
+### 12 may, jueves
+
 
 
