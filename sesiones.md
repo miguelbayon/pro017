@@ -543,6 +543,12 @@
 * [0128](https://github.com/miguelbayon/pro015/blob/master/actividades/0128.md)
 
 ### 12 may, jueves
-* Herencia (parte 1)
+* Herencia (hora 01)
+* Herencia (hora 02)
 
+
+### 13 mayo, viernes
+* Herencia (hora 03)
+* Herencia (hora 04)
+* Herencia (hora 05)
 
