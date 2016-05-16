@@ -547,8 +547,18 @@
 * Herencia (hora 02)
 
 
-### 13 mayo, viernes
+### 13 may, viernes
 * Herencia (hora 03)
 * Herencia (hora 04)
 * Herencia (hora 05)
+
+### 16 may, lunes
+* Herencia (hora 06)
+ * [0666](https://github.com/miguelbayon/pro015/blob/master/actividades/0666.md)
+* Herencia (hora 07)
+* Herencia (hora 08)
+ 
+
+
+
 
