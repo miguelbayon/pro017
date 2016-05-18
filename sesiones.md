@@ -555,9 +555,12 @@
 ### 16 may, lunes
 * Herencia (hora 06)
  * [0666](https://github.com/miguelbayon/pro015/blob/master/actividades/0666.md)
+ * Corrección de [0666](https://github.com/miguelbayon/pro015/blob/master/actividades/0666.md)
 * Herencia (hora 07)
 * Herencia (hora 08)
  
+### 19 may, jueves
+* Herencia (hora 09)
 
 
 
