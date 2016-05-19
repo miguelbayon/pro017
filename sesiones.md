@@ -561,6 +561,11 @@
  
 ### 19 may, jueves
 * Herencia (hora 09)
+* Herencia (hora 10)
+
+### 20 may, viernes
+* Herencia (hora 11)
+* Herencia (hora 12)
 
 
 
