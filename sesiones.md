@@ -574,5 +574,8 @@
 * Herencia (hora 15)
 
 
+### 26 may, jueves
+* Herencia (hora 16)
+* Herencia (hora 17)
 
 
