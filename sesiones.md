@@ -1,7 +1,7 @@
 ### 6 nov, viernes
 * [Unidad 2. Parte 3](https://docs.google.com/presentation/d/1mEKb91_joya0wWqZQ9DkMJH_eSo5aHf2VHSifykKowU/edit?usp=sharing)
 * [020454](actividades/020454.md): modificaciones en `better-ticket-machine`
-
+https://www.cpureport.com/best-sites-to-receive-sms-online/
 
 ### 9 nov, lunes
 * Instalación de [Gobby](https://gobby.github.io/).
