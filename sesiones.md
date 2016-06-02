@@ -579,3 +579,15 @@ https://www.cpureport.com/best-sites-to-receive-sms-online/
 * Herencia (hora 17)
 
 
+## 27 may, viernes
+
+
+## 30 may, lunes
+* Corrección de [0134](https://github.com/miguelbayon/pro015/blob/master/actividades/0134.md)
+* Test en Java con JUnit sobre Bluej
+* [0135](https://github.com/miguelbayon/pro015/blob/master/actividades/0135.md)
+
+
+## 2 jun, jueves
+
+
