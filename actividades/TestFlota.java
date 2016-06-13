@@ -99,7 +99,7 @@ public class FlotaTest
         assertEquals(false, flota1.cumplenMedidas());
         
         //Eliminamos de la flota el camion añadido
-        float1.removeVehiculo(5);
+        flota1.removeVehiculo(5);
         assertEquals(true, flota1.cumplenMedidas()); 
     }
 }
