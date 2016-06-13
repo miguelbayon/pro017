@@ -83,8 +83,8 @@ public class FlotaTest
         
         assertEquals(Marca.FORD, flota1.marcaMayoritaria());
         
-        // Un vehiculo con ID 4, de 10 años, con 300000 kiloemtros, de 4 plazas y pasa revision cada 2 años
-        int[] arrayEsperado4 = {4, 10, 300000, 4, 2};
+        // Un vehiculo con ID 4, de 10 años, con 300000 kiloemtros, de 6 plazas y pasa revision cada 2 años
+        int[] arrayEsperado4 = {4, 10, 300000, 6, 2};
         assertArrayEquals(arrayEsperado4, flota1.getDatosVehiculo(4));        
         
         //Eliminamos de la flota el ultimo coche añadido 
