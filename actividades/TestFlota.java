@@ -87,6 +87,7 @@ public class FlotaTest
         assertEquals(true, flota1.cumplenMedidas());  
  
         //Añadimos un camion que no cumple las medidas de seguridad
+        // camion Citroen de 7 años con 206000 kiloemtros y 4000 kilos de peso
         Vehiculo camion2 = new Camion(Marca.CITROEN, 7, 206000, 4000);
         flota1.addVehiculo(camion2);     
         assertEquals(Marca.CITROEN, flota1.marcaMayoritaria());
