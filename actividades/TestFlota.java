@@ -76,7 +76,7 @@ public class FlotaTest
         assertArrayEquals(arrayEsperado3, flota1.getDatosVehiculo(3));        
         
         //Añadimos un coche que no cumple las medidas de seguridad
-        Vehiculo coche2 = new Coche(Marca.FORD, 10, 300000, 4);
+        Vehiculo coche2 = new Coche(Marca.FORD, 10, 300000, 6);
         flota1.addVehiculo(coche2);
         
         assertEquals(false, flota1.cumplenMedidas());
