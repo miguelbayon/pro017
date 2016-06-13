@@ -42,9 +42,13 @@ public class FlotaTest
     @Test
     public void testFlota01()
     {
+        // coche Fiat de 8 años con 2000 kilometros y 4 plazas
         Vehiculo coche1 = new Coche(Marca.FIAT, 8, 2000, 4);
+        // furgoneta pequeña Ford de 2 años con 456 kilometros y 6 plazas
         Vehiculo furgonet1 = new FurgonetaPequena(Marca.FORD, 2, 456, 6);
+        // furgoneta grande Opel de 5 años con 20000 kilometros y 1000 kilos de peso
         Vehiculo furgonet2 = new FurgonetaGrande(Marca.OPEL, 5, 20000, 1000);
+        // camion Citroen de 6 años con 10000 kilometros y 1500 kilos de peso
         Vehiculo camion1 = new Camion(Marca.CITROEN, 6, 10000, 1500);
         
         Flota flota1 = new Flota();
