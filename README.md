@@ -4,7 +4,7 @@
 * __Centro__: IES San Andres ([www.iessanandres.com](http://www.iessanandres.com))
 * __Profesor__: Miguel Bayón Alonso (miguel.bayon@iesssanandres.com)
 * __Curso__: 2015-2016
-* __Duración__: 256 horas
+* __Duración__: 256 horas (septiembre 2015 a junio 2016)
 
 ### Descripción general
 
