@@ -21,6 +21,11 @@ El módulo profesional se centra en poner las bases de la programación orientad
 Para que el alumno pueda acogerse a la evaluación continua es necesario que las faltas de asistencia (independientemente de si son  justificadas o no justificadas) sean inferiores al 15% del horario lectivo del módulo. Por lo tanto, un alumno que tenga 39 o más faltas de asistencia perdería su derecho a evaluación continua.
 
 
+### Calificaciones
+
+* [Ver calificaciones](https://script.google.com/macros/s/AKfycbzwlOBaq-h1KEVi37_7nD5CQ2vORJhgBer9qHv9rNYlsTDnEOlw/exec?pagina=mostrarNotas)
+
+
 ### Entrega de actividades
 
 * [Formulario de entrega de actividad](https://goo.gl/forms/42Q7egxtpvLrJ6hD3)
