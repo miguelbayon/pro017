@@ -1,6 +1,6 @@
 ## Timeline en JavaFx
 
-A continacuión se exponde un ejemplo de bucle de juego usando la clase `Timeline`:
+A continuaión se exponde un ejemplo de bucle de juego usando la clase `Timeline`:
 
 ```
 
