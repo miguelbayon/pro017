@@ -13,7 +13,7 @@ El módulo profesional se centra en poner las bases de la programación orientad
 
 ### Programación didáctica
 
-* Programación didáctica
+* [Programación didáctica](documentacion/ProgramacionDidacticaProgaramacionDAM12015-2016.pdf)
 
 
 ### Asistencia
