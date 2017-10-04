@@ -1,10 +1,10 @@
-# Módulo "Programación" 2016-2017
+# Módulo "Programación" 2017-2018
 
 * __Curso__: 1º Curso CFGS Desarrollo de Aplicaciones Multiplataforma (DAM1) 
 * __Centro__: IES San Andres ([www.iessanandres.com](http://www.iessanandres.com))
 * __Profesor__: Miguel Bayón Alonso (miguel.bayon@iesssanandres.com)
-* __Curso__: 2016-2017
-* __Duración__: 256 horas (septiembre 2016 a junio 2017)
+* __Curso__: 2017-2018
+* __Duración__: 256 horas (septiembre 2017 a junio 2018)
 
 ### Descripción general
 
@@ -13,20 +13,11 @@ El módulo profesional se centra en poner las bases de la programación orientad
 
 ### Programación didáctica
 
-* [Programación didáctica](documentacion/ProgramacionDidacticaProgaramacionDAM12015-2016.pdf)
+* Programación didáctica (no disponible todavía)
 
 
 ### Asistencia
 
 Para que el alumno pueda acogerse a la evaluación continua es necesario que las faltas de asistencia (independientemente de si son  justificadas o no justificadas) sean inferiores al 15% del horario lectivo del módulo. Por lo tanto, un alumno que tenga 39 o más faltas de asistencia perdería su derecho a evaluación continua.
 
-
-### Calificaciones
-
-* [Ver calificaciones](https://script.google.com/macros/s/AKfycbzwlOBaq-h1KEVi37_7nD5CQ2vORJhgBer9qHv9rNYlsTDnEOlw/exec?pagina=mostrarNotas)
-
-
-### Entrega de actividades
-
-* [Formulario de entrega de actividad](https://goo.gl/forms/42Q7egxtpvLrJ6hD3)
 
