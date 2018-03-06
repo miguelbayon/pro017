@@ -2,6 +2,8 @@
 
 ### Acoplamiento y cohesión
 
+Si queremos justificar la afirmación de que unos diseños son mejores que otros, entonces tenemos que definiri algunos términos que nos permitan analizar los aspectos que consideramos importantes en el diseño de clases. Hay dos términos que son fundamentales a la hora de hablar de la calidad de un diseño de clase: el _acoplamiento_ y la _cohesión_.
+
 
 
 ### Repetición de código
