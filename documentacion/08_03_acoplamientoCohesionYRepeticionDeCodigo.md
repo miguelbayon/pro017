@@ -4,6 +4,18 @@
 
 Si queremos justificar la afirmación de que unos diseños son mejores que otros, entonces tenemos que definiri algunos términos que nos permitan analizar los aspectos que consideramos importantes en el diseño de clases. Hay dos términos que son fundamentales a la hora de hablar de la calidad de un diseño de clase: el _acoplamiento_ y la _cohesión_.
 
+El término _acoplamiento_ hace referencia al grado de interconexión de las clases. Siempre buscamos diseñar una aplicación con un conjunto de clases en cooperación que se comunican a través de interfaces bien definidas. El gradod e acoplamiento indica lo estrechamente conectadas que están las clases. Lo que buscamos es un grado bajo de acoplamiento (acoplamiento débil).
+
+El grado de acoplamiento determina lo difícil que es realizar cambios en una aplicación. En una estructura de clases estrechamente acoplada, un cambio en una clase puede hacer necesario introducir cambios en otras clases. Esto es precisamente lo que tratamos de evitar: no queremos que el efecto de un pequeño cambio en un punto de la aplicación suponga una propagación en cascada de cambios por todo el resto de la aplicación. Además, localizar todos los lugares donde es necesario hacer cambios y llevar a la práctica esos cambios puede resultar difícil y requerir mucho tiempo.
+
+En un sistema débilmente acoplado, por el contrario, podemos cambiar el interior de una clase (la implementación) sin efectuar ningún cambio en las clases restantes, y la aplicación seguirá funcionando correctamente.
+
+El término _cohesión_ se relaciona con el número y la diversidad de tareas de las que es responsable cada unidad de la aplicación. La cohesión se aplica tanto a clases como a métodos individuales.
+
+Idealmente, cada unidad de código debe ser responsable de una tarea coherente, es decir, de una tarea que pueda ser vista como una unidad lógica. Cada método debería implementar una operación lógica y cada clase debería representar un tipo de entidad. La principal razón que subyace al principio de cohesión es la reutilización: si un método o clase es reponsable de un única cosa bien definida, entonces es mucho más probable que pueda utilizarse de nuevo en un contxto distinto. Una ventaja complementaria de adherirse a este principio es que, cuando haga falta realizar modificaciones en algún aspecto de la aplicación, es probable que encontremos todas las piezas relevantes dentro de una misma unidad.
+
+En un sistema altamente cohesionado, cada unidad de código (ya sea una clase o un método) es responsable de una tarea o entidad bien definidas. Un buen diseño de clases exhibe un alto grado de cohesión.
+
 
 
 ### Repetición de código
