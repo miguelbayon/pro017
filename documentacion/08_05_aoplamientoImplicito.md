@@ -8,7 +8,7 @@ Para ver un ejemplo de cómo nos afecta el acoplamiento implícito, vamos a llev
 
 Supón que queremos añadir el comando _look_ (mirar) al conjunto de comandos legales. El propósito de _look_ es simplemente imprimir de nuevo por pantalla la descripción de la sala en la que está el personaje y sus posibles salidas. Esto podría ser útil si, una vez llegados a una sala, hemos introducido muchos comandos y la descripción que apareció al llega a dicha sala ha quedado fuera de la pantalla y queremos acordarnos de dónde se encuentran las salidas de la sala actual.
 
-> **Actividad 08.05.01**: Revisa el código de la aplicación y piensa dónde deberíamos hacer cambios para poder añadir el comando `look`. Cuando lo tengas claro, sigue leyendo.
+> ![](brain.png) **Actividad 08.05.01**: Revisa el código de la aplicación y piensa dónde deberíamos hacer cambios para poder añadir el comando `look`. Cuando lo tengas claro, sigue leyendo.
 
 Podemos introducir una nueva palabra de comando simplemente añadiéndola a la lista de palabras conocidas en la matriz `validCommands` de la clase `CommandWords`:
 
@@ -59,11 +59,11 @@ Para implementar la acción que debe llevar a cabo el comando `look` debemos hac
 	}
 	```
 
-> **Actividad 08.05.03**: Implementa en BlueJ los cambios descritos hasta aquí en tu programa, testea que funciona todo y haz un commit (**commit 10**).
+> ![](brain.png) **Actividad 08.05.03**: Implementa en BlueJ los cambios descritos hasta aquí en tu programa, testea que funciona todo y haz un commit (**commit 10**).
 
-> **Actividad 08.05.04**: Realiza en BlueJ los cambios necesarios en tu código para que también se pueda invocar al comando _eat_ (comer) que, al ejecutarse, se limite a imprimir el mensaje "_You have eaten now and you are not hungry any more_" (acabas de comer y ya no tienes hambre). Mantén tan simple como se indica este comando porque más adelante lo mejoraremos. Al acabar haz un commit (**commit 11**).
+> ![](brain.png) **Actividad 08.05.04**: Realiza en BlueJ los cambios necesarios en tu código para que también se pueda invocar al comando _eat_ (comer) que, al ejecutarse, se limite a imprimir el mensaje "_You have eaten now and you are not hungry any more_" (acabas de comer y ya no tienes hambre). Mantén tan simple como se indica este comando porque más adelante lo mejoraremos. Al acabar haz un commit (**commit 11**).
 
-> **Actividad 08.05.05**: Casi seguro que, en estos momentos, tu programa contiene un bug. ¿Eres capaz de saber en qué momento aparece? Cuando lo descubras, sigue leyendo.
+> ![](brain.png) **Actividad 08.05.05**: Casi seguro que, en estos momentos, tu programa contiene un bug. ¿Eres capaz de saber en qué momento aparece? Cuando lo descubras, sigue leyendo.
 
 El acoplamiento entre las clases `Game`. `Parser` y `CommandWords` parece hasta ahora ser bastante bueno; fue fácil realizar la adición de los nuevos comandos y hemos conseguido que todo funcione rápidamente.
 
@@ -133,7 +133,7 @@ public void showCommands()
 }
 ```
 
-> **Actividad 08.05.06**: Implementa en BlueJ todos los cambios que se han descrito hasta ahora desde la actividad 08.05.04. Testea que todo funciona correctamente y haz un commit (**commit 12**).
+> ![](brain.png) **Actividad 08.05.06**: Implementa en BlueJ todos los cambios que se han descrito hasta ahora desde la actividad 08.05.04. Testea que todo funciona correctamente y haz un commit (**commit 12**).
 
-> **Actividad 08.05.07**: Si ahora quisiéramos añadir un nuevo comando al juego, ¿seguiríamos necesitando modificar la clase `Game`? ¿En qué puntos?
+> ![](brain.png) **Actividad 08.05.07**: Si ahora quisiéramos añadir un nuevo comando al juego, ¿seguiríamos necesitando modificar la clase `Game`? ¿En qué puntos?
 
