@@ -8,7 +8,7 @@ Para ver un ejemplo de cómo nos afecta el acoplamiento implícito, vamos a llev
 
 Supón que queremos añadir el comando _look_ (mirar) al conjunto de comandos legales. El propósito de _look_ es simplemente imprimir de nuevo por pantalla la descripción de la sala en la que está el personaje y sus posibles salidas. Esto podría ser útil si, una vez llegados a una sala, hemos introducido muchos comandos y la descripción que apareció al llega a dicha sala ha quedado fuera de la pantalla y queremos acordarnos de dónde se encuentran las salidas de la sala actual.
 
-> ![](brain.png) **Actividad 08.05.01**: Revisa el código de la aplicación y piensa dónde deberíamos hacer cambios para poder añadir el comando `look`. Cuando lo tengas claro, sigue leyendo.
+> **Actividad 08.05.01**: Revisa el código de la aplicación y piensa dónde deberíamos hacer cambios para poder añadir el comando `look`. Cuando lo tengas claro, sigue leyendo.
 
 Podemos introducir una nueva palabra de comando simplemente añadiéndola a la lista de palabras conocidas en la matriz `validCommands` de la clase `CommandWords`:
 
