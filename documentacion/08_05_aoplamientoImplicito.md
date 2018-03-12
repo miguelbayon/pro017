@@ -13,10 +13,10 @@ Supón que queremos añadir el comando _look_ (mirar) al conjunto de comandos le
 Podemos introducir una nueva palabra de comando simplemente añadiéndola a la lista de palabras conocidas en la matriz `validCommands` de la clase `CommandWords`:
 
 ```java
-    // a constant array that holds all valid command words
-    private static final String[] validCommands = {
-        "go", "quit", "help", "look"
-    };
+// a constant array that holds all valid command words
+private static final String[] validCommands = {
+    "go", "quit", "help", "look"
+};
 ```
 
 Esto muestra, por cierto, un ejemplo de buena cohesión: en lugar de definir las palabras que son comandos en la clase `Parser` (el analizador sintático), que habría sido una posibilidad, el programador que creo el juego ha creado una clase aparte separada (`CommandWords`) para definir dichas palabras. Esto hace que sea muy fácil localizar el lugar en el que están definidas y también resulta muy sencillo añadir una nueva. El programador estaba, al crear el programa, anticipándose a posibles cambios futuros y asumiendo que posteriormente podrían añadirse más comandos, por lo que diseño una estructura para facilitar dicha tarea.
