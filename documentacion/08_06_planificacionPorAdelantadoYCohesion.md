@@ -55,7 +55,7 @@ En el diseño que utiliza una clase `Item` separada, resulta sencillo crear múl
 
 Con el primer enfoque, el de usar dos atributos adicionales en la clase `Room` este cambio habría sido casi imposible de implementar.
 
-> ![](brain.png) **Actividad 08.06.05**: Modifica el proyecto de modo que una sala pueda albergar cualquier número de elementos. Asegúrate de conseguir que las salas dispongan de un método denominado `addItem` que permita colocar un elemento en la sala. Comprueba también que se muestran todos los elementos cuando un jugador entra en una sala o cuando ejecuta el comando _look_ dentro de ella.
+> ![](brain.png) **Actividad 08.06.05**: Modifica el proyecto de modo que una sala pueda albergar cualquier número de elementos. Asegúrate de conseguir que las salas dispongan de un método denominado `addItem` que permita colocar un elemento en la sala. Comprueba también que se muestran todos los elementos cuando un jugador entra en una sala o cuando ejecuta el comando _look_ dentro de ella. Una vez implementada la nueva funcionalidad, haz un commit (**commit 15**).
 
 #### Cohesión para la legibilidad
 
@@ -90,6 +90,6 @@ El primero de ellos es responsable de devolver la siguiente sala existente en la
 
 La ventaja de esta división de tareas en dos métodos en vez de en uno solo es que estos métodos pueden reutilizarse. Por ejemplo, el método `getLongDescription` se invoca no solo en el método `goRoom` de la clase `Game` sino también en el método `printWelcome`  y en el método que implementa el comando _look_. Esto solo es posible porque el método `getLongDescription` presenta una cohesión alta (si observas esta reutilización sería imposible en el caso del supuesto método `leaveRoom` porque su cohesión es baja, es decir, hace muchas tareas).
 
-> ![](brain.png) **Actividad 08.06.06**: Implementa un comando denominado _back_. Este comando se invoca solo y el resultado es que hace que el personaje vuelva a la sala de donde venía. El jugador no debe cambiar de localización si este comando se invoca al inicio o si se invoca dos o más veces seguidas sin haber ejecutado el comando _go_ entre ellas. Una vez que testees que el programa se comporta como deseamos, haz un commit (**commit 15**).
+> ![](brain.png) **Actividad 08.06.06**: Implementa un comando denominado _back_. Este comando se invoca solo y el resultado es que hace que el personaje vuelva a la sala de donde venía. El jugador no debe cambiar de localización si este comando se invoca al inicio o si se invoca dos o más veces seguidas sin haber ejecutado el comando _go_ entre ellas. Una vez que testees que el programa se comporta como deseamos, haz un commit (**commit 16**).
 
 > ![](brain.png) **Actividad 08.06.07**: Modifica el comando _back_ para que al utilizarlo repetidamente podamos retroceder varias salas, volviendo al principio del juego si usamos el comando las veces necesarias. Para ello es obligatorio que utilices un objeto de la clase `Stack` (investiga en Internet cómo usar dicho objeto). Una vez que compruebes que el programa se comporta como deseamos, haz un commit (**commit 15**).
