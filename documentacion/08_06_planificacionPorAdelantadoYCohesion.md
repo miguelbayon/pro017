@@ -71,7 +71,7 @@ La segunda mayor ventaja de la cohesión alta es que ofrece un mayor potencial p
 
 La existencia de la clase `Item` como clase separada también constituye aquí una buen ejemplo de esto: podemos crear múltiples objetos en una sala usando el mismo código para cada uno de ellos. Si no hubiéramos creado esa clase y hubiéramos usado dos atributos en la clase `Room` como se propuso originalmente, estaríamos obligados a repetir código, creando por ejemplo otros dos atributos para un segundo objeto en la sala.
 
-Otro ejemplo de reutilización lo podemos ver en los métodos `getExit` y `pgetLongDescription` de la clase `Room`. Imagina que hubiéramos implementado en la clase `Room` un método denominado `leaveRoom` con la siguiente cabecera:
+Otro ejemplo de reutilización lo podemos ver en los métodos `getExit` y `getLongDescription` de la clase `Room`. Imagina que hubiéramos implementado en la clase `Room` un método denominado `leaveRoom` con la siguiente cabecera:
 
 ```java
 public Room leaveRoom(String direction)
