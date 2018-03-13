@@ -55,7 +55,7 @@ En el diseño que utiliza una clase `Item` separada, resulta sencillo crear múl
 
 Con el primer enfoque, el de usar dos atributos adicionales en la clase `Room` este cambio habría sido casi imposible de implementar.
 
-> ![](brain.png) **Actividad 08.06.05**: Modifica el proyecto de modo que una sala pueda albergar cualquier número de elementos. Asegúrate de conseguir que las salas dispongan de un método denominado `addItem` que permita colocar un elemento en la sala. Comprueba también que se muestran todos los elementos cuando un jugador entra en una sala o cuando ejecuta el comando _look_ dentro de ella. Una vez implementada la nueva funcionalidad, haz un commit (**commit 15**).
+> ![](brain.png) **Actividad 08.06.05**: Modifica el proyecto de modo que una sala pueda albergar cualquier número de elementos. Ahora los objetos no se especifican en el construtcor de `Room` sino que debes conseguir que las salas dispongan de un método denominado `addItem` (que permita colocar un elemento en la sala) y que pueda ser llamado varias veces, de forma similar a como se especifican las salidas de la sala. Comprueba también que se muestran todos los elementos cuando un jugador entra en una sala o cuando ejecuta el comando _look_ dentro de ella. Una vez implementada la nueva funcionalidad, haz un commit (**commit 15**).
 
 #### Cohesión para la legibilidad
 
