@@ -37,11 +37,11 @@ Sin embargo es mucho más fácil entender lo que hace un segmento de código y e
 
 La regla de la cohesión de clases afirma que cada clase debería representar una única entidad bien definida dentro del dominio del problema.
 
-Como ejemplo de cohesión de clases, vamos a analizar cómo llevar a cabo otra ampliación en nuestro juego. Nuestro objetivo va a ser estudiar como conseguir que existan objetos en el juego (_items_). Cada sala va a poder tener un objeto y cada objeto va a tener una descripción y un peso.
+Como ejemplo de cohesión de clases, vamos a analizar cómo llevar a cabo otra ampliación en nuestro juego. Nuestro objetivo va a ser estudiar como conseguir que existan objetos en el juego (_items_). Cada sala va a poder tener un objeto y cada objeto va a tener una descripción (por ejemplo, "_un cofre lleno de monedas de oro"_) y un peso (por ejemplo, _600_ gramos).
 
 > ![](brain.png) **Actividad 08.06.03**: Sin hacer ninguna modificación a tu código, piensa cómo podrías llevar a cabo dicha funcionalidad y qué cambios y añadidos necesitarías implementar en tu programa. Una vez que lo tengas claro, continua leyendo.
 
-Un enfoque simplista para solucionar el problema sería añadir dos atributos a la clase `Room`: un atributo `itemDescription` que almacenaría la descripción del objeto existente en la sala (por ejemplo, "_un cofre lleno de monedas de oro"_) y un atributo `itemWeight` que almacenaría el peso de dicho objeto (por ejemplo, _600_ gramos). Esto podría funcionar sin problemas y seríamos capaces de imprimir sin muchos problemas la descripción y el peso del objeto correspondiente cada vez que entráramos en una sala.
+Un enfoque simplista para solucionar el problema sería añadir dos atributos a la clase `Room`: un atributo `itemDescription` que almacenaría la descripción del objeto existente en la sala y un atributo `itemWeight` que almacenaría el peso de dicho objeto. Esto podría funcionar sin problemas y seríamos capaces de imprimir sin muchos problemas la descripción y el peso del objeto correspondiente cada vez que entráramos en una sala.
 
 Sin embargo, este enfoque no presenta un buen grado de cohesión: la clase `Room` ahora describe tanto una sala como un objeto. Esto, ademas de provocar una baja cohesión, implica que cada objeto está ligado a una sala, lo que tal vez choque con cambios venideros en el programa.
 
