@@ -14,7 +14,7 @@ Hay que tener en cuenta que este cambio que se propone no nos supone, en este mo
 
 > ![](brain.png) **Actividad 08.06.01**: Implementa el cambio sugerido en esta sección. Asegúrate que una vez realizadas todas las modificaciones necesarias, el programa sigue funcionando como lo hacía antes. Luego, realiza un commit (**commit 13**).
 
-> ![](brain.png) **Actividad 08.06.02**: Investiga en Internet en qué consiste el patrón _modelo-vista-controlador (MVC o model-view-controller). ¿En qué consiste dicho patrón? ¿Tiene alguna relación con lo explicado en esta sección?
+> ![](brain.png) **Actividad 08.06.02**: Investiga en Internet en qué consiste el patrón _modelo-vista-controlador (MVC o model-view-controller)_. ¿En qué consiste dicho patrón? ¿Tiene alguna relación con lo explicado en esta sección?
 
 
 ### Cohesión
