@@ -135,5 +135,5 @@ public void showCommands()
 
 > ![](brain.png) **Actividad 08.05.06**: Implementa en BlueJ todos los cambios que se han descrito hasta ahora desde la actividad 08.05.04. Testea que todo funciona correctamente y haz un commit (**commit 12**).
 
-> ![](brain.png) **Actividad 08.05.07**: Si ahora quisiéramos añadir un nuevo comando al juego, ¿seguiríamos necesitando modificar la clase `Game`? ¿En qué puntos?
+> ![](brain.png) **Actividad 08.05.07**: Si ahora quisiéramos añadir un nuevo comando al juego está claro que seguiríamos necesitando modificar la clase `Game` pero la pregunta es: ¿en qué puntos?
 
