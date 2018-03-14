@@ -74,9 +74,9 @@ Your command words are:
  go quit help
 ```
 
-Analizando la salida observamos un pequeño problema: el texto de ayuda está incompleto  porque el comando _look_ no aparece. Tenemos un bug.
+Analizando la salida observamos un pequeño problema: el texto de ayuda está incompleto  porque ni el comando _look_ ni el comando _eat_ aparecen. Tenemos un bug.
 
-Dicho bug parece fácil de corregir: podemos limitarnos a editar la cadena de texto en el método `printHelp` de la clase `Game` que muestra los comandos disponibles. Esto se puede hacer rápidamente y no parece ser mayor problema. El verdadero problema es darse cuenta de que hay que añadir manualmente en este método cada comando que añadamos al programa (de hecho, ¿habías sido capaz de encontrar el bug en la actividad 08.05.05?).
+Dicho bug parece fácil de corregir: podemos limitarnos a editar la cadena de texto en el método `printHelp` de la clase `Game` que muestra los comandos disponibles añadiendo al final _look_ y _eat_. Esto se puede hacer rápidamente y no parece ser mayor problema. El verdadero problema es darse cuenta de que hay que añadir manualmente en este método cada comando que añadamos al programa (de hecho, ¿habías sido capaz de encontrar el bug en la actividad 08.05.05?).
 
 Ten en cuenta que el programa, sin este cambio en `printHelp` se compila correctamente y todo parece ir bien. El programador que está ampliando el programa podría creer que su tarea ya ha finalizado y lanzar comercialmente un programa que ahora contendrá un error.
 
