@@ -29,7 +29,7 @@ Si para probar la modificación anterior ejecutamos juego y escribimos el comand
 
 que indica que la aplicación no entiende lo que hemos escrito. Por tanto, el hecho de que no veamos dicha respuesta indica que la palabra ha sido reconocida como un comando pero no sucede nada porque no hemos implementado una acción para ese comando.
 
-> ![](brain.png) **Actividad 08.05.02**: Revisa el código de la aplicación y piensa dónde deberíamos escribir el código que se debe ejecutar cuando el usuario invoca el comando `look`. Cuando lo tengas claro, sigue leyendo. 
+> ![](brain.png) **Actividad 08.05.02**: Sin hacer ninguna modificación, revisa las clases y métodos de tu aplicación y piensa dónde deberíamos escribir el código que se debe ejecutar cuando el usuario invoca el comando `look`. Cuando lo tengas claro, sigue leyendo. 
 
 Para implementar la acción que debe llevar a cabo el comando `look` debemos hacer dos cosas:
 
