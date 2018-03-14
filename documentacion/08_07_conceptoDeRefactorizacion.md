@@ -29,6 +29,6 @@ Para ilustrar el concepto de refactorización vamos a continuar añadiendo funci
 > 
 > **Muy importante**: 
 > * No está permitido añadir nuevas clases.
-> * Antes de empezar con los cambios debes crear una rama con el nombre `cogersoltar` y, todos los cambios, debes hacerlos en dicha rama. En ningún caso debes fusionar esta rama con la rama `master`. Una vez que compruebes que el programa se comporta como deseamos, haz un commit (**commit 16**) y sube a Github la nueva rama.
+> * Antes de empezar con los cambios debes crear una rama con el nombre `cogersoltar` debes hacer todos los cambios en dicha rama. En ningún caso debes fusionar esta rama con la rama `master`. Una vez que compruebes que el programa se comporta como deseamos, haz un commit (**commit 16**) y sube a Github la nueva rama.
 
 > ![](brain.png) **Actividad 08.07.02**: ¿Qué es lo que más te ha costado implementar del ejercicio anterior? ¿Qué decisiones has tomado al ir programando que no te convecen del todo de cara a un buen diseño?
