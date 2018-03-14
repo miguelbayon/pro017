@@ -63,7 +63,7 @@ Para implementar la acción que debe llevar a cabo el comando `look` debemos hac
 
 > ![](brain.png) **Actividad 08.05.04**: Realiza en BlueJ los cambios necesarios en tu código para que también se pueda invocar al comando _eat_ (comer) que, al ejecutarse, se limite a imprimir el mensaje "_You have eaten now and you are not hungry any more_" (acabas de comer y ya no tienes hambre). Mantén tan simple como se indica este comando porque más adelante lo mejoraremos. Al acabar haz un commit (**commit 11**).
 
-> ![](brain.png) **Actividad 08.05.05**: Casi seguro que, en estos momentos, tu programa contiene un bug. ¿Eres capaz de saber en qué momento aparece? Cuando lo descubras, sigue leyendo.
+> ![](brain.png) **Actividad 08.05.05**: Casi seguro que, en estos momentos, tu programa contiene un bug (un error o algo que no funciona consistentemente). ¿Eres capaz de saber en qué momento aparece este bug? Cuando lo descubras, sigue leyendo.
 
 El acoplamiento entre las clases `Game`. `Parser` y `CommandWords` parece hasta ahora ser bastante bueno; fue fácil realizar la adición de los nuevos comandos y hemos conseguido que todo funcione rápidamente.
 
