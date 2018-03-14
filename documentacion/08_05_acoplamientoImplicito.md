@@ -91,7 +91,7 @@ Un programa bien diseñado evitaría esta forma de acoplamiento siguiendo la reg
 public void showAll()
 {
 	for (String command : validCommands) {
-		System.out.println(command + " ");
+		System.out.print(command + " ");
 	}
 	System.out.println();
 }
