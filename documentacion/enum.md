@@ -6,10 +6,12 @@ La única limitación que tienen los enumerados respecto a una clase normal es q
 
 Los futbolistas están caracterizados por una demarcación a la hora de jugar un partido de fútbol, por tanto las demarcaciones en las que puede jugar un futbolista son finitas y por tanto se pueden enumerar en: portero, defensa, centrocampista y delantero. Con esta especificación podemos crearnos la siguiente clase enum llamada `Demarcación`:
 
-    public enum Demarcacion
-    {
-        PORTERO, DEFENSA, CENTROCAMPISTA, DELANTERO
-    }
+```java
+public enum Demarcacion
+{
+    PORTERO, DEFENSA, CENTROCAMPISTA, DELANTERO
+}
+```
 
 Por convenio (aunque lo podéis poner como queráis) los nombres de los enumerados se escriben en mayúsculas.
 
@@ -17,40 +19,44 @@ Es muy importante entender que un enum en java es realmente una clase (cuyos obj
 
 A continuación vamos a mostrar algunos de los métodos más utilizados de los enumerados:
     
-    // Objeto enum de la clase Demarcación
-    Demarcacion delantero = Demarcacion.DELANTERO;     
-    // Devuelve un String con el nombre de la constante (DELANTERO)
-    delantero.name();     
-    // Devuelve un String con el nombre de la constante (DELANTERO)
-    delantero.toString(); 
-    // Devuelve un entero con la posición del enum según está declarada (3)
-    delantero.ordinal();      
-    // Compara el enum con el parámetro según el orden en el que están declarados lo enum
-    delantero.compareTo(Enum otro);    
-    // Devuelve un array que contiene todos los enum
-    Demarcacion.values();    
+```java    
+// Objeto enum de la clase Demarcación
+Demarcacion delantero = Demarcacion.DELANTERO;     
+// Devuelve un String con el nombre de la constante (DELANTERO)
+delantero.name();     
+// Devuelve un String con el nombre de la constante (DELANTERO)
+delantero.toString(); 
+// Devuelve un entero con la posición del enum según está declarada (3)
+delantero.ordinal();      
+// Compara el enum con el parámetro según el orden en el que están declarados lo enum
+delantero.compareTo(Enum otro);    
+// Devuelve un array que contiene todos los enum
+Demarcacion.values();   
+```
     
 
 Visto cuales son los métodos más utilizados dentro de los enumerados, vamos a poner un ejemplo para ver los resultados que nos devuelven estos métodos. Dado el siguiente fragmento de código:
 
-    Demarcacion delantero = Demarcacion.DELANTERO;
-    Demarcacion defensa = Demarcacion.DEFENSA;
-    		
-    // Devuelve un String con el nombre de la constante
-    System.out.println("delantero.name() = " + delantero.name());
-    System.out.println("defensa.toString() = " + defensa.toString());
-    		
-    //  Devuelve un entero con la posición de la constante según está declarada.
-    System.out.println("delantero.ordinal() = " + delantero.ordinal());
-    		
-    // Compara el enum con el parámetro según el orden en el que están declaradas las constantes. 
-    System.out.println("delantero.compareTo(defensa)= " + delantero.compareTo(defensa));
-    System.out.println("delantero.compareTo(delantero)= " + delantero.compareTo(delantero));
-    		
-    // Recorre todas las constantes de la enumeración
-    for(Demarcacion d: Demarcacion.values()){
-        System.out.println(d.toString() + " - ");
-    }
+```java
+Demarcacion delantero = Demarcacion.DELANTERO;
+Demarcacion defensa = Demarcacion.DEFENSA;
+
+// Devuelve un String con el nombre de la constante
+System.out.println("delantero.name() = " + delantero.name());
+System.out.println("defensa.toString() = " + defensa.toString());
+
+//  Devuelve un entero con la posición de la constante según está declarada.
+System.out.println("delantero.ordinal() = " + delantero.ordinal());
+
+// Compara el enum con el parámetro según el orden en el que están declaradas las constantes. 
+System.out.println("delantero.compareTo(defensa)= " + delantero.compareTo(defensa));
+System.out.println("delantero.compareTo(delantero)= " + delantero.compareTo(delantero));
+
+// Recorre todas las constantes de la enumeración
+for(Demarcacion d: Demarcacion.values()){
+    System.out.println(d.toString() + " - ");
+}
+```
 
 
 Tenemos como salida los siguientes resultados:
@@ -65,45 +71,48 @@ Tenemos como salida los siguientes resultados:
 
 Como ya se ha dicho, un enum es una clase especial que limita la creación de objetos a los especificados en su clase (por eso su constructor es privado, como se ve en el siguiente fragmento de código); pero estos objetos pueden tener atributos como cualquier otra clase. En la siguiente declaración de la clase, vemos un ejemplo en la que definimos un enumerado `Equipo` que va a tener dos atributos; el nombre y el puesto en el que quedaron en la liga del año 2009/2010.
 
-    public enum Equipo
-    {
-    	BARÇA("FC Barcelona",1), 
-    	REAL_MADRID("Real Madrid",2),
-    	SEVILLA("Sevilla FC",4), 
-    	VILLAREAL("Villareal",7); 
-    	
-    	private String nombreClub;
-    	private int puestoLiga;
-    	
-    	private Equipo (String nombreClub, int puestoLiga){
-    		this.nombreClub = nombreClub;
-    		this.puestoLiga = puestoLiga;
-    	}
-    
-    	public String getNombreClub() {
-    		return nombreClub;
-    	}
-    
-    	public int getPuestoLiga() {
-    		return puestoLiga;
-    	}	
-    	
+```java
+public enum Equipo
+{
+    BARÇA("FC Barcelona",1), 
+    REAL_MADRID("Real Madrid",2),
+    SEVILLA("Sevilla FC",4), 
+    VILLAREAL("Villareal",7); 
+
+    private String nombreClub;
+    private int puestoLiga;
+
+    private Equipo (String nombreClub, int puestoLiga){
+        this.nombreClub = nombreClub;
+        this.puestoLiga = puestoLiga;
     }
+
+    public String getNombreClub() {
+        return nombreClub;
+    }
+
+    public int getPuestoLiga() {
+        return puestoLiga;
+    }	
+}
+```
 
 
 Como se ve BARÇA, REAL_MADRID, etc. son el nombre del enum (u objetos de la clase `Equipo`) que tendrán como atributos el “nombreClub” y “puestoLiga”. Como se ve en la clase definimos un constructor que es privado (es decir que solo es visible dentro de la clase `Equipo`) y solo definimos los métodos “get”. Para trabajar con los atributos de estos enumerados se hace de la misma manera que con cualquier otro objeto; se instancia un objeto y se accede a los atributos con los métodos get. 
 
 En el siguiente fragmento de código vamos a ver como trabajar con enumerados que tienen atributos:
 
-    // Creamos un objeto de tipo enum
-    Equipo villareal = Equipo.VILLAREAL;
-    		
-    // Devuelve un String con el nombre de la constante
-    System.out.println("villareal.name() = " + villareal.name());
-    		
-    // Devuelve el contenido de los atributos
-    System.out.println("villareal.getNombreClub() = " + villareal.getNombreClub());
-    System.out.println("villareal.getPuestoLiga() = " + villareal.getPuestoLiga());
+```java
+// Creamos un objeto de tipo enum
+Equipo villareal = Equipo.VILLAREAL;
+
+// Devuelve un String con el nombre de la constante
+System.out.println("villareal.name() = " + villareal.name());
+
+// Devuelve el contenido de los atributos
+System.out.println("villareal.getNombreClub() = " + villareal.getNombreClub());
+System.out.println("villareal.getPuestoLiga() = " + villareal.getPuestoLiga());
+```
     
 
 Como salida de este fragmento de código tenemos lo siguiente:
