@@ -1,6 +1,6 @@
 ### Refactorizando un caso real
 
-Vamos a retomar el objetivo de nuestro ejercicio anterior, que consiste en: 
+Vamos a retomar el objetivo de nuestro ejercicio anterior, que consiste en que: 
 
 * El jugador pueda coger objetos de la sala en la que se encuentre.
 * El jugador pueda transportar cualquier número de objetos, pero solo hasta un cierto peso máximo.
