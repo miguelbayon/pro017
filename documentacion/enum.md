@@ -15,7 +15,7 @@ public enum Demarcacion
 
 Así, en este ejemplo, el tipo `Demarcación` tendrá cuatro objetos de ese tipo en nuestro programa y solo cuatro. Por convenio los nombres de los objetos enumerados se escriben siempre en mayúsculas.
 
-Es muy importante entender que un _enum_ en java es realmente una clase (cuyos objetos solo pueden ser los definidos en esta clase: PORTERO, ..., DELANTERO) que hereda de la clase `Enum(java.lang.Enum)`. Por tanto, los enumerados tienen una serie de métodos heredados de esa clase padre ([ver documentación](https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html). 
+Es muy importante entender que un _enum_ en java es realmente una clase (cuyos objetos solo pueden ser los definidos en esta clase: PORTERO, ..., DELANTERO) que hereda de la clase `Enum(java.lang.Enum)`. Por tanto, los enumerados tienen una serie de métodos heredados de esa clase padre ([ver documentación](https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html)). 
 
 A continuación vamos a mostrar algunos de los métodos más utilizados de los enumerados:
     
