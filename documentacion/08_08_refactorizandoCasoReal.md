@@ -63,8 +63,9 @@ Por supuesto, una de las cosas que hará que la refactorización nos complique l
 >
 > Luego implementa en tu aplicación los siguientes cambios a través de una nueva rama llamada `ramaObjetos` y fusiona dicha rama con `master` cuando termines de implementar todos los cambios que se solicitan a continuación(**commit 18**):
 
-> 1.  Implementa la posibilidad de que el jugador pueda coger objetos. Haz un commit dentro de la rama (**commit r01**).
-> 2. Implementa un comando _items_ que haga que se impriman por pantalla todos los objetos que lleva ahora mismo el jugador, junto con su peso total. Haz un commit dentro de la rama (**commit r02**).
-> 3.  Implementa la posibilidad de que el jugador pueda soltar objetos. Haz un commit dentro de la rama (**commit r03**).
-> 4. Implementa que el jugador pueda llevar objetos hasta un peso máximo especificado cuando se construye el jugador. El peso máximo que cada jugador puede llevar es un atributo del jugador. Haz un commit dentro de la rama (**commit r04**)
-> 5. Implementa la posibilidad de que exista en una sala un objeto _galleta mágica_ . Añade un comando _eat galleta_. Un jugador que encuentre la galleta, la coja y luego invoque el comando indicado incrementará al doble el peso que es capaz de transportar. Si quieres, puedes modificar este ejercicio ligeramente para que encaje mejor con tu juego, pero siempre con la autorización del profesor. Haz un commit dentro de la rama (**commit r05**).
+> 1. Implementa la posibilidad de que el jugador pueda coger objetos incluyendo la comprobación de que no se pasa del peso máximo que puede soportar. Haz un commit dentro de la rama (**commit r01**).
+> 2. Implementa la posibilidad de que haya objetos en el juego que no se puedan coger. Haz un commit dentro de la rama (**commit r02**).
+> 2. Implementa un comando _items_ que haga que se impriman por pantalla todos los objetos que lleva ahora mismo el jugador, junto con su peso total. Haz un commit dentro de la rama (**commit r03**).
+> 3.  Implementa la posibilidad de que el jugador pueda soltar objetos. Haz un commit dentro de la rama (**commit r04**).
+> 4. Implementa que el jugador pueda llevar objetos hasta un peso máximo especificado cuando se construye el jugador. El peso máximo que cada jugador puede llevar es un atributo del jugador. Haz un commit dentro de la rama (**commit r05**)
+> 5. Implementa la posibilidad de que exista en una sala un objeto _galleta mágica_ . Añade un comando _eat galleta_. Un jugador que encuentre la galleta, la coja y luego invoque el comando indicado incrementará al doble el peso que es capaz de transportar. Si quieres, puedes modificar este ejercicio ligeramente para que encaje mejor con tu juego, pero siempre con la autorización del profesor. Haz un commit dentro de la rama (**commit r06**).
