@@ -62,7 +62,7 @@ Por supuesto, una de las cosas que hará que la refactorización nos complique l
 > ![](brain.png) **Actividad 08.08.01**: Estando en la rama `master`, crea una nueva rama llamada `refac` en la que vamos a refactorizar nuestro proyecto introduciendo la clase `Player` comentada en esta sección de forma que, de momento solo almacene la ubicación del jugador. Recuerda que estamos refactorizando y, por tanto, la funcionalidad del programa debe ser exatcamente la misma al acabar que la que tenía al empezar. Cuando veas que todo funciona tal y como funcionaba antes, haz un commit y fusiona la rama con `master` (**commit 17**).
 >
 > Luego implementa en tu aplicación los siguientes cambios a través de una nueva rama llamada `ramaObjetos` y fusiona dicha rama con `master` cuando termines de implementar todos los cambios que se solicitan a continuación(**commit 18**):
-
+>
 > 1. Implementa la posibilidad de que el jugador pueda coger objetos incluyendo la comprobación de que no se pasa del peso máximo que puede soportar. Haz un commit dentro de la rama (**commit r01**).
 > 2. Implementa la posibilidad de que haya objetos en el juego que no se puedan coger. Haz un commit dentro de la rama (**commit r02**).
 > 2. Implementa un comando _items_ que haga que se impriman por pantalla todos los objetos que lleva ahora mismo el jugador, junto con su peso total. Haz un commit dentro de la rama (**commit r03**).
