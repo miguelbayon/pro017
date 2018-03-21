@@ -2,7 +2,7 @@
 
 Un _tipo enumerado_ o _enum_ es una clase “especial” (tanto en Java como en otros lenguajes) que define en el código los posibles objetos que puede haber de ese tipo indicándolos explícitamente en la implementación de la clase. 
 
-La única limitación que tienen los enumerados respecto a una clase normal es que si tiene constructor, este debe de ser privado para que no se puedan crear nuevos objetos.
+La única limitación que tienen los enumerados respecto a una clase normal es que, si tiene constructor, este debe de ser privado para que no se puedan crear nuevos objetos.
 
 Los futbolistas están caracterizados por una demarcación a la hora de jugar un partido de fútbol, por tanto las demarcaciones en las que puede jugar un futbolista son finitas y por tanto se pueden enumerar en: portero, defensa, centrocampista y delantero. Con esta especificación podemos crearnos la siguiente clase enum llamada `Demarcación`:
 
