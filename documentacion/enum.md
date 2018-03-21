@@ -1,4 +1,4 @@
-## Enum en Java
+## Tipos enumerados o enum en Java
 
 Un _tipo enumerado_ o _enum_ es una clase “especial” (tanto en Java como en otros lenguajes) que limitan la creación de objetos a los especificados explícitamente en la implementación de la clase. 
 
