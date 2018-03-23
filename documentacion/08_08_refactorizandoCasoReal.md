@@ -64,7 +64,7 @@ Por supuesto, una de las cosas que hará que la refactorización nos complique l
 > 1. La nueva clase `Player` disponga únicamente de dos atributos: uno para almacenar la ubicación actual del jugador y otro para almacenar las habitaciones en las que ha estado previamente.
 > 2. La nueva clase `Player` contenga los métodos referidos al jugador de la clase `Game`, es decir, `goRoom`, `back`, `look` y `eat`. 
 > 3. El método `printLocationInfo` de `Game` quede suprimido y en su jugar se utilice `look` allí donde sea necesario.
-> 4. En ningún caso se cree el objeto `Player` en la clase `Game` en el método `createRooms` (porque ese método, como su nombre dice, ¡solo debe crear habitaciones!). El objeto `Player` debe ser creado en el constructor de `Game`. Piensa cómo sería el mejor modo de hacerlo.
+> 4. En ningún caso se cree el objeto `Player` en la clase `Game` en el método `createRooms` (porque ese método, como su nombre dice, ¡solo debe crear habitaciones!). El objeto `Player` debe ser creado en el constructor de `Game`. Para ello vamos a hacer que `createRooms` nos devuelva ahora la habitación inicial del juego.
 >
 > Recuerda que estamos refactorizando y, por tanto, la funcionalidad del programa debe ser exatcamente la misma al acabar que la que tenía al empezar. Cuando veas que todo funciona tal y como funcionaba antes, haz un commit y fusiona la rama con `master` (**commit 18**).
 
