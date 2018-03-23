@@ -70,7 +70,7 @@ Por supuesto, una de las cosas que hará que la refactorización nos complique l
 
 > ![](brain.png) **Actividad 08.08.02**: Implementa en tu aplicación los siguientes cambios a través de una nueva rama llamada `ramaObjetos` y fusiona dicha rama con `master` cuando termines de implementar todos los cambios que se solicitan a continuación(**commit 19**):
 >
-> 1. Implementa la posibilidad de que el jugador pueda coger objetos. Haz un commit dentro de la rama (**commit r01**).
+> 1. Implementa la posibilidad de que el jugador pueda coger objetos sin tener en cuenta el peso del objeto. Haz un commit dentro de la rama (**commit r01**).
 > 2. Implementa la posibilidad de que haya objetos en el juego que no se puedan coger. Haz un commit dentro de la rama (**commit r02**).
 > 2. Implementa un comando _items_ que haga que se impriman por pantalla todos los objetos que lleva ahora mismo el jugador, junto con su peso total. Haz un commit dentro de la rama (**commit r03**).
 > 3.  Implementa la posibilidad de que el jugador pueda soltar objetos. Haz un commit dentro de la rama (**commit r04**).
