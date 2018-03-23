@@ -61,7 +61,7 @@ Por supuesto, una de las cosas que hará que la refactorización nos complique l
 
 > ![](brain.png) **Actividad 08.08.01**: Estando en la rama `master`, crea una nueva rama llamada `refac` en la que vamos a refactorizar nuestro proyecto introduciendo la clase `Player` comentada en esta sección de forma que:
 >
-> 1. La nueva clase `Player` almacene la ubicación del jugador y las habitaciones en las que ha estado previamente.
+> 1. La nueva clase `Player` disponga únicamente de dos atributos: uno para almacenar la ubicación actual del jugador y otro para almacenar las habitaciones en las que ha estado previamente.
 > 2. La nueva clase `Player` contenga los métodos referidos al jugador de la clase `Game`, es decir, `goRoom`, `back`, `look` y `eat`. 
 > 3. El método `printLocationInfo` de `Game` quede suprimido y en su jugar se utilice `look` allí donde sea necesario.
 > 4. En ningún caso se cree el objeto `Player` en la clase `Game` en el método `createRooms` (porque ese método, como su nombre dice, ¡solo debe crear habitaciones!). El objeto `Player` debe ser creado en el constructor de `Game`. Piensa cómo sería el mejor modo de hacerlo.
