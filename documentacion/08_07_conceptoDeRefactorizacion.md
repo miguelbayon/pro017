@@ -1,4 +1,4 @@
-### Concepto de refactorización
+## Concepto de refactorización
 
 Al diseñar aplicaciones debemos tratar de planificar por adelantado, anticipando los posibles cambios que puedan realizarse en el futuro y creando clases y método altamente cohesionados y débilmente acoplados para facilitar las futuras modificaciones. Aunque este debe ser siempre nuestro objetivo no siempre podremos anticipar todas las futuras ampliaciones a acometer en nuestro programa y tampoco es factible prepararse para todos los posibles cambios a un programa que podamos imaginar. 
 
