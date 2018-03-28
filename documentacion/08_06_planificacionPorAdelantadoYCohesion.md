@@ -1,4 +1,4 @@
-### Planificación por adelantado
+## Planificación por adelantado
 
 El diseño que tenemos en estos momentos del juego constituye una mejora importante con respecto a la versión original. Sin embargo, es posible mejorarlo aún más.
 
@@ -17,13 +17,13 @@ Hay que tener en cuenta que este cambio que se propone no nos supone, en este mo
 > ![](brain.png) **Actividad 08.06.02**: Investiga en Internet en qué consiste el patrón _modelo-vista-controlador (MVC o model-view-controller)_. ¿En qué consiste dicho patrón? ¿Tiene alguna relación con lo explicado en esta sección?
 
 
-### Cohesión
+## Cohesión
 
 La idea de cohesión se refiere a que cada unidad de código debería ser siempre responsable de una y de solo una tarea. El principio de cohesión puede aplicarse tanto a clases como a métodos y el objetivo es que tanto unos como los otros presenten un alto grado de cohesión.
 
 A continuación vamos a analizar este principio de diseño utilizando algunos ejemplos.
 
-#### Cohesión de métodos
+### Cohesión de métodos
 
 Cuando hablamos de la cohesión de métodos queremos expresar que, idealmente, cada método debe ser responsable de una, y solo una, tarea bien definida.
 
@@ -33,7 +33,7 @@ Desde un punto de vista de funcionamiento podríamos haber introducido directame
 
 Sin embargo es mucho más fácil entender lo que hace un segmento de código y es también más fácil realizar modificaciones en el mismo si se utilizan métodos cortos y con alta cohesión. Con la estructura de métodos que el autor original eligió, todos los métodos son relativamente cortos y fáciles de entender y, además, los nombres de los métodos indican su propósito de forma bastante clara (cosa que es difícil de conseguir cuando un método se dedica a hacer múltiples cosas). Estas características hacen que el programador que modifica ahora el código para añadir nueva funcionalidad o corregir errores esté en una situación más ventajosa.
 
-#### Cohesión de clases
+### Cohesión de clases
 
 La regla de la cohesión de clases afirma que cada clase debería representar una única entidad bien definida dentro del dominio del problema.
 
@@ -57,7 +57,7 @@ Con el primer enfoque, el de usar dos atributos adicionales en la clase `Room` e
 
 > ![](brain.png) **Actividad 08.06.05**: Modifica el proyecto de modo que una sala pueda albergar cualquier número de elementos. Ahora los objetos no se especifican en el construtcor de `Room` sino que debes conseguir que las salas dispongan de un método denominado `addItem` (que permita colocar un elemento en la sala) y que pueda ser llamado varias veces, de forma similar a como se especifican las salidas de la sala. Comprueba también que se muestran todos los elementos cuando un jugador entra en una sala o cuando ejecuta el comando _look_ dentro de ella. Una vez implementada la nueva funcionalidad, haz un commit (**commit 15**).
 
-#### Cohesión para la legibilidad
+### Cohesión para la legibilidad
 
 Son varias las maneras en que una alta cohesión beneficia a un programa. Las dos más importantes son que mejora la _legibilidad_ y facilita la _reutilización de código_.
 
@@ -65,7 +65,7 @@ El método `play` de la clase `Game` representa un buen ejemplo de como al tener
 
 Otro ejemplo de mejora de la legibilidad es la existencia de una alta cohesión a nivel de clases. Por ejemplo, como existe por si sola la clase `Item`, si un programador quisiera ahora añadir funcionalidades a los objetos sabría fácilmente a dónde dirigirse para hacer dichas modificaciones.
 
-#### Cohesión para la reutilización
+### Cohesión para la reutilización
 
 La segunda mayor ventaja de la cohesión alta es que ofrece un mayor potencial para reutilizar código.
 
