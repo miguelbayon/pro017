@@ -32,13 +32,13 @@ if(command.isUnknown()) {
 
 String commandWord = command.getCommandWord();
 if (commandWord.equals("help")) {
-	printHelp();
+    printHelp();
 }
 else if (commandWord.equals("go")) {
-	goRoom(command);
+    goRoom(command);
 }
 else if (commandWord.equals("quit")) {
-	wantToQuit = quit(command);
+    wantToQuit = quit(command);
 }
 ```
 
@@ -49,8 +49,13 @@ if (commandWord == CommandWord.UNKNOWN) {
     System.out.println("I don't know what you mean...");
     return false;
 }
+
+CommandWord commandWord = command.getCommandWord();
 if (commandWord == CommandWord.HELP) {
-	printHelp();
+    printHelp();
+}
+else if (commandWord == Command.GO) {
+    goRoom(command);
 }
 ...
 ```
@@ -78,7 +83,7 @@ Una de las cosas que tendremos que hacer a continuación será que los comandos 
 ```java
 public CommandWords()
 {
-	validCommands = new HashMap<>();
+    validCommands = new HashMap<>();
     validCommands.put("go", CommandWord.GO);
     validCommands.put("help", CommandWord.HELP);
     validCommands.put("quit", CommandWord.QUIT);
