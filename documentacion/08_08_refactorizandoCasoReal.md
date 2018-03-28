@@ -1,4 +1,4 @@
-### Refactorizando un caso real
+## Refactorizando un caso real
 
 Vamos a retomar el objetivo de nuestro ejercicio anterior, que consiste en que: 
 
