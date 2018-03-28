@@ -1,4 +1,4 @@
-## Refactorización para la independencia respecto del idioma
+## Refactorización para la independencia respecto del idioma (I)
 
 Una característica del juego que todavía no hemos comentado es que la interfaz del usuario está estrechamente ligada a comandos escritos en inglés. Esta suposición, la de que el juego es en inglés, está integrada tanto en la clase `CommandWords`, en la que se almacenan los comandos válidos, como en la clase `Game`, en la que el método `processcommand` compara explícitamente cada palabra que es un comando con un conjunto de palabras en inglés. 
 
