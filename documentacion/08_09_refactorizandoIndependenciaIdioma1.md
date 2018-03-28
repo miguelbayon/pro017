@@ -29,6 +29,7 @@ if(command.isUnknown()) {
     System.out.println("I don't know what you mean...");
     return false;
 }
+
 String commandWord = command.getCommandWord();
 if (commandWord.equals("help")) {
 	printHelp();
