@@ -6,7 +6,7 @@ Si ahora queremos cambiar la interfaz de usuario para permitir a los usuarios ut
 
 Si queremos que el programa sea independiente del idioma, entonces deberíamos tener, idealmente, un único punto en el código fuente en el que se almacene el texto real de las palabras que son comandos y hacer que, en todo el resto de lugares donde necesitamos conocer esas palabras se haga referencia a los ellas de una manera que sea independiente del idioma usado. Una característica de Java que hace que esto sea posible son los _tipos enumerados_ o _enums_. 
 
-### Tipos enumerados
+### Tipos enumerados e instrucción switch
 
 A continuación se muestra la definición de un tipo enumerado en Java denominado `CommandWord` (ojo, no confundir con la clase `CommandWords` existente hasta ahora) que habría que incorporar a nuestra aplicación:
 
