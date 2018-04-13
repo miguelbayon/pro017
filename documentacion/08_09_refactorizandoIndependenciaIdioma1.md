@@ -104,7 +104,7 @@ También nos será útil añadir un método a esa misma clase con la siguiente c
 public CommandWord getCommandWord(String commandWord)
 ```
 
-A continuación, en la clase `Command` tendremos que hacer las modificaciones adecuadas para que el atributo `commandWord` sea ahora de tipo `CommandWord` (en vez de como era hasta ahora un `String`). Date cuenta que ya no vamos a utilizar el valor `null` en el atributo `commandWord` para indicar que un comando no es valido sino que nos valemos de uno de los objetos de la clase _enum_ para ello (`UNKNOWN`). La estructura de la clase `CommandWord` (donde no se incluye la implementación de los métodos) debe ser la siguiente:
+A continuación, en la clase `Command` tendremos que hacer las modificaciones adecuadas para que el atributo `commandWord` sea ahora de tipo `CommandWord` (en vez de como era hasta ahora un `String`). Date cuenta que ya no vamos a utilizar el valor `null` en el atributo `commandWord` para indicar que un comando no es valido sino que nos valemos de uno de los objetos de la clase _enum_ para ello (`UNKNOWN`). La estructura de la clase `Command` (donde no se incluye la implementación de los métodos) debe ser la siguiente:
 
 ```java
 public class Command
