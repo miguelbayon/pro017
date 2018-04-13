@@ -90,7 +90,7 @@ public CommandWords()
 }
 ```
 
-Con este cambio nos vemos obligados a modificar la implementación (¡sólo la implementación!) de los métodos `isCommand` y `showAll` de la clase `CommandWords`, ya que ahora no compila debido a que estos métodos estaban codificados para trabajar sobre el antiguo array.
+Con este cambio nos vemos obligados a modificar la implementación (¡sólo la implementación!) de los métodos `isCommand` y `getCommandList` de la clase `CommandWords`, ya que ahora no compila debido a que estos métodos estaban codificados para trabajar sobre el antiguo array.
 
 También nos será útil añadir un método a esa misma clase con la siguiente cabecera:
 
