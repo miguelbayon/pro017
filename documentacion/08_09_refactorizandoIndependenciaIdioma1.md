@@ -97,8 +97,8 @@ También nos será útil añadir un método a esa misma clase con la siguiente c
 ```java
 /**
  * Return the CommandWord associated with a word.
- * @param commandWord The word to look up (as a string).
- * @return The CommandWord corresponding to the String commandWord, or UNKNOWN
+ * @param commandWord The word to look up (as a string, like "go" o "look").
+ * @return The CommandWord corresponding to the String commandWord (like GO or LOOK), or UNKNOWN
  *         if it is not a valid command word.
  */
 public CommandWord getCommandWord(String commandWord)
