@@ -6,11 +6,11 @@ import static org.junit.Assert.assertEquals;
 
 public class R888Test {
 
-        private R888 torneo;
+        private Torneo torneo;
 
         @Before
         public void setUp() {
-                torneo = new R888();
+                torneo = new Torneo();
         }
 
         @Test
