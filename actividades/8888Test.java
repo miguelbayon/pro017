@@ -123,7 +123,7 @@ public class R888Test {
                 assertEquals("Equipo                         |  J |  G |  E |  P |  P\n"
                                 + "Real Madrid                    |  3 |  2 |  1 |  0 |  7\n"
                                 + "Atletico Madrid                |  3 |  2 |  1 |  0 |  7\n"
-                                + "FC Barcelona                   |  3 |  1 |  0 |  1 |  4\n"
+                                + "FC Barcelona                   |  3 |  1 |  0 |  1 |  3\n"
                                 + "Valencia FC                    |  3 |  0 |  0 |  3 |  0\n",
                                 torneo.mostrarClasificacion());
         }
