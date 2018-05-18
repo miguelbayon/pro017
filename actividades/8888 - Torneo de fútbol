@@ -1,0 +1,56 @@
+## 8888 - Torneo de fútbol
+
+__Importante__: 
+
+  - Recuerda tomar nota del tiempo total en minutos (o en horas y minutos) que dedicas a realizar la actividad.
+  - El código debe estar comentado de forma que javadoc sea capaz de generar la documentación de la aplicación.
+  - Crea en Github tu repositorio remoto siguiendo este link: https://classroom.github.com/a/EOVLMBO1
+  
+### Enunciado
+
+Se pide que seas capaz de crear una clasificación de un torneo de fútbol.
+
+Basándote en los datos que se te van a indicar sobre los resultados de los enfrentamientos, tendrás que crear una cadena de texto como la que se muestra a continuación:
+
+```
+Equipo                         |  J |  G |  E |  P |  P
+Real Madrid                    |  3 |  2 |  0 |  1 |  6
+FC Barcelona                   |  2 |  1 |  1 |  0 |  4
+Atletico Madrid                |  2 |  0 |  1 |  1 |  1
+Valencia FC                    |  1 |  0 |  0 |  1 |  0
+```
+
+En la que cada abreviatura significa:
+* J: Partidos jugados
+* G: Partidos ganados
+* E: Partidos empatados
+* P: partidos perdidos
+* P: Puntos
+
+Un equipo gana 3 puntos si gana un partido y 1 si lo empata. Si pierde no gana puntos.
+
+La clasificación debe mostrarse ordenada por puntos; en caso de empate, se muestra por orden alfabético inverso.
+
+Tu programa debe pasar los test que se indican a continuación:
+
+* [Clase de test]
+
+
+### Entrega
+
+Cuando hayas terminado la actividad haz un push de la rama master al repositorio remoto de Github.
+
+Haz un comentario público indicando:
+
+  - El tiempo en horas y minutos que has tardado en completar la actividad.
+  - El grado de dificultad que has apreciado.
+  - Aquello que más te ha costado de la actividad.
+  - El hash de 7 caracteres del último commit.
+  
+Entrega:
+
+  - La URL de la pantalla del listado de commits de Github.
+  - Una captura de pantalla de la pantalla anterior donde se muestren los commits realizados.
+  - Una imagen (no vale captura) del diagrama UML creado.
+  - La URL de un video de Youtube donde se muestre cómo la aplicación pasa todos los tests.
+  - Un comentario privado con el mismo contenido que el comentario público anterior.
