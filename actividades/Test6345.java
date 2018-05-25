@@ -6,12 +6,12 @@ import org.junit.Test;
 /**
  * The test class CreadorDeTablerosTest.
  */
-public class 6345Test
+public class Test6345
 {
     /**
      * Default constructor for test class CreadorDeTablerosTest
      */
-    public CreadorDeTablerosTest()
+    public Test6345()
     {
     }
 
