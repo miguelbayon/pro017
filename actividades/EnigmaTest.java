@@ -41,7 +41,7 @@ public class EnigmaTest
     }
     
     @Test
-    public void testCommit01Bayon()
+    public void testCommit01()
     {
         Enigma enigma = new Enigma();
         Mecanismo mecanismo01 = new MecanismoMultiplicacionPrimo(7);
@@ -55,7 +55,7 @@ public class EnigmaTest
     }
     
     @Test
-    public void testCommit02Bayon()
+    public void testCommit02()
     {
         Enigma enigma = new Enigma();
         Mecanismo mecanismo02 = new MecanismoOffset(2);            
@@ -69,7 +69,7 @@ public class EnigmaTest
     }
 
     @Test
-    public void testCommit03Bayon()
+    public void testCommit03()
     {
         Enigma enigma = new Enigma();
         Mecanismo mecanismo03 = new MecanismoSumatorioParcial(7);
@@ -83,7 +83,7 @@ public class EnigmaTest
     }
     
     @Test
-    public void testFuncionamientoCompletoayon()
+    public void testFuncionamientoCompleto()
     {
         Enigma enigma = new Enigma();
         Mecanismo mecanismo01 = new MecanismoMultiplicacionPrimo(7);
