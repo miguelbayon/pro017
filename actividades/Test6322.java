@@ -55,6 +55,7 @@ public class Test6322
         resultado += "Caso #3: 6\n";
         assertEquals(resultado, contador1.cuentaHuecosGofres(entrada));
         entrada = "";
+        entrada = "30\n";        
         entrada += "2 2\n";
         entrada += "3 2\n";
         entrada += "4 3\n";
