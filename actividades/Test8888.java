@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class R888Test {
+public class Test8888 {
 
         private Torneo torneo;
 
