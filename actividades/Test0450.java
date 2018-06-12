@@ -6,17 +6,17 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * The test class EnigmaTest.
+ * The test class Test0450.
  *
  * @author  (your name)
  * @version (a version number or a date)
  */
-public class EnigmaTest
+public class Test0450
 {
     /**
-     * Default constructor for test class EnigmaTest
+     * Default constructor for test class Test0450
      */
-    public EnigmaTest()
+    public Test0450()
     {
     }
 
