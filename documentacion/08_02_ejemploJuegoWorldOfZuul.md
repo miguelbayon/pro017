@@ -9,7 +9,7 @@ Una investigación del código fuente muestra que, afortunadamente, estas clases
 
 He aquí un resumen del propósito de cada clase:
 
-- _CommanWords_: La clase `CommandWords` define todos los comandos válidos del juego. Lo hace manteniendo una matriz de objetos `String` que representan las palabras utilizadas como comandos.
+- _CommandWords_: La clase `CommandWords` define todos los comandos válidos del juego. Lo hace manteniendo una matriz de objetos `String` que representan las palabras utilizadas como comandos.
 
 - _Parser_: Es el analizador sintáctico, que lee las lineas que se teclean en la terminal y trata de interpretarlas como comandos. Crea objetos de la clase `Command` que representan el comando que se ha introducido.
 
