@@ -84,4 +84,18 @@ public class Test5555
         assertEquals("11", correos.getPrimeraPersonaDeLaCola());
     }
 
+    
+    @Test
+    public void testListadoPersonasEnColaVacia() {
+        assertEquals("Cola vacia", correos.getListadoPersonasEnCola());
+    }    
+    
+    @Test
+    public void testListadoPersonasEnCola() {
+        for (int i = 1; i <= 10; i++) {
+            correos.llegaPersona(String.valueOf(i));
+        }
+        assertEquals("1-2-3-4-5-6-7-8-9-10", correos.getListadoPersonasEnCola());
+    }
+
 }
