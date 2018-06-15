@@ -119,7 +119,7 @@ public class Test5555
         correos.llegaPersona("Lorena");        
         correos.ultimaPersonaSeVa();
         correos.ultimaPersonaSeVa();        
-        assertEquals("Juan-Miguel", correos.getListadoPersonasEnCola());
+        assertEquals("Juan", correos.getListadoPersonasEnCola());
     }     
 
 }
