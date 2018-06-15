@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class 3456
+public class Clase3456
 {
     
     public void metodo() 
@@ -17,7 +17,7 @@ public class 3456
         System.out.println(c);
         System.out.println(d);        
         
-        System.out.println();;
+        System.out.println();
         System.out.println("Se intenta cambiar las 4 variables locales con un metodo...");
         metodoQueIntentaCambiarParametros(a, b, c, d);
         
