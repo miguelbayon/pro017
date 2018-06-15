@@ -31,6 +31,11 @@ public class Test5555
         correos.ultimaPersonaSeVa();
         assertEquals(true, correos.estaLaColaVacia());
     }
+    
+    @Test
+    public void testGetPrimeroDeUnaColaVacia() {
+        assertEquals(null, correos.getPrimeraPersonaDeLaCola());
+    }    
 
     @Test
     public void testGetPrimeroDeUnaColaConUnElemento() {
