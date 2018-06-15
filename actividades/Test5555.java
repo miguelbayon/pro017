@@ -56,7 +56,7 @@ public class Test5555
         correos.llegaPersona("Miguel");
         correos.despacharALaPrimeraPersona();
         assertEquals(true, correos.getPrimeraPersonaDeLaCola().equals("Miguel"));
-    }
+    }  
 
     @Test
     public void testTamanoColaVacia() {
@@ -102,5 +102,24 @@ public class Test5555
         }
         assertEquals("1-2-3-4-5-6-7-8-9-10", correos.getListadoPersonasEnCola());
     }
+    
+    @Test
+    public void testGetListadoPersonasDespuesDeQueUnaSeVaya() {
+        correos.llegaPersona("Juan");
+        correos.llegaPersona("Miguel");
+        correos.llegaPersona("Lorena");        
+        correos.ultimaPersonaSeVa();
+        assertEquals("Juan-Miguel", correos.getListadoPersonasEnCola());
+    }      
+    
+    @Test
+    public void testGetListadoPersonasDespuesDeQueDosSeVayan() {
+        correos.llegaPersona("Juan");
+        correos.llegaPersona("Miguel");
+        correos.llegaPersona("Lorena");        
+        correos.ultimaPersonaSeVa();
+        correos.ultimaPersonaSeVa();        
+        assertEquals("Juan-Miguel", correos.getListadoPersonasEnCola());
+    }     
 
 }
