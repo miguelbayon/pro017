@@ -69,7 +69,7 @@ public class Test5555
         for (int i = 1; i <= 20 + 4; i++) {
             correos.llegaPersona(String.valueOf(i));
         }
-        assertEquals("1", correos.getPrimeraPersonaEnLaCola());
+        assertEquals("1", correos.getPrimeraPersonaDeLaCola());
 
     }
 
