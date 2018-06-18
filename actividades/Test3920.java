@@ -42,7 +42,7 @@ public class Test3920
     @Test
     public void test01()
     {
-        Test3920 cuentaki1 = new Test3920();
+        Cuentakilometros cuentaki1 = new Cuentakilometros();
         assertEquals(50, cuentaki1.calcularKilometros("10 5"));
         assertEquals(78, cuentaki1.calcularKilometros("5 2 3 7"));
         assertEquals(266, cuentaki1.calcularKilometros("12 5 15 1 6"));
