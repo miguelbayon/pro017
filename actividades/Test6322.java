@@ -9,12 +9,12 @@ import org.junit.Test;
  * @author  (your name)
  * @version (a version number or a date)
  */
-public class Test6322
+public class Actividad6322Test
 {
     /**
      * Default constructor for test class ContadorHuecosGofresTest
      */
-    public Test6322()
+    public Actividad6322Test()
     {
     }
 
@@ -53,8 +53,15 @@ public class Test6322
         resultado += "Caso #1: 1\n";
         resultado += "Caso #2: 2\n";
         resultado += "Caso #3: 6\n";
-        assertEquals(resultado, contador1.cuentaHuecosGofres(entrada));
-        entrada = "";
+        assertEquals(resultado, contador1.cuentaHuecosGofres(entrada));       
+    }
+    
+    @Test
+    public void test02()
+    {   
+        ContadorHuecosGofres contador1 = new ContadorHuecosGofres();
+        String entrada = "";
+        String resultado = "";          
         entrada = "30\n";        
         entrada += "2 2\n";
         entrada += "3 2\n";
@@ -117,7 +124,7 @@ public class Test6322
         resultado += "Caso #28: 7708\n";
         resultado += "Caso #29: 8064\n";
         resultado += "Caso #30: 8463\n";        
-        assertEquals(resultado, contador1.cuentaHuecosGofres(entrada));        
+        assertEquals(resultado, contador1.cuentaHuecosGofres(entrada));         
     }
 
 }
