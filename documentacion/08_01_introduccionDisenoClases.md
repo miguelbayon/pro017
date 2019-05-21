@@ -1,6 +1,6 @@
 ## Introducción al diseño de clases
 
-Vamos a analizar algunos de los factores que influyen sobre el diseño de una clase. ¿Qué hace que un diseño de una clase sea bueno o malo? Escribir ckases adecuadamente puede requerir más esfuerzo a corto plazo que escribirlas incorrectamente, pero a largo plazo ese esfuerzo adicional se verá recompensado. 
+Vamos a analizar algunos de los factores que influyen sobre el diseño de una clase. ¿Qué hace que un diseño de una clase sea bueno o malo? Escribir clases adecuadamente puede requerir más esfuerzo a corto plazo que escribirlas incorrectamente, pero a largo plazo ese esfuerzo adicional se verá recompensado. 
 
 Para ayudarnos a escribir clases de manera adecuada podemos aplicar algunos principios. En particular, presentaremos el punto de vista de que el diseño de clases debe estar dirigo por el concepto de responsabilidad y que las clases deben encapsular los datos correspondientes.
 
